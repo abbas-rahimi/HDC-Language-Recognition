@@ -1,0 +1,1 @@
+teknisistae syistae mikrofoneissanne oleva merkkivalo joka puhuessanne yleensae muuttuu punaiseksi ei kuitenkaan toimi taemaen istunnon aikana 

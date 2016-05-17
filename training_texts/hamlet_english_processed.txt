@@ -1,0 +1,5302 @@
+the project gutenbergs etext of shakespeares first folio 
+the tragedie of hamlet 
+
+this is our  edition of most of these plays see the index 
+
+
+copyright laws are changing all over the world be sure to check 
+the copyright laws for your country before posting these files 
+
+please take a look at the important information in this header 
+we encourage you to keep this file on your own disk keeping an 
+electronic path open for the next readers do not remove this 
+
+
+welcome to the world of free plain vanilla electronic texts 
+
+etexts readable by both humans and by computers since  
+
+these etexts prepared by hundreds of volunteers and donations 
+
+information on contacting project gutenberg to get etexts and 
+further information is included below we need your donations 
+
+
+the tragedie of hamlet 
+
+by william shakespeare 
+
+july  etext  
+
+
+the project gutenbergs etext of shakespeares first folio 
+the tragedie of hamlet 
+
+this file should be named  or  
+
+corrected  of our etexts get a new   
+ based on separate sources get new   
+
+
+project gutenberg etexts are usually created from multiple editions 
+all of which are in the public domain in the united states unless a 
+copyright notice is included therefore we usually do  keep any 
+of these books in compliance with any particular paper edition 
+
+
+we are now trying to release all our books one month in advance 
+of the official release dates leaving time for better editing 
+
+please note neither this list nor its contents are final till 
+midnight of the last day of the month of any such announcement 
+the official release date of all project gutenberg etexts is at 
+midnight central time of the last day of the stated month  
+preliminary version may often be posted for suggestion comment 
+and editing by those who wish to do so to be sure you have an 
+up to date first edition  please check file sizes 
+in the first week of the next month since our ftp program has 
+a bug in it that scrambles the date tried to fix and failed a 
+look at the file size will have to do but we will try to see a 
+new copy has at least one byte more or less 
+
+
+information about project gutenberg one page 
+
+we produce about two million dollars for each hour we work the 
+time it takes us a rather conservative estimate is fifty hours 
+to get any etext selected entered proofread edited copyright 
+searched and analyzed the copyright letters written etc this 
+projected audience is one hundred million readers if our value 
+per text is nominally estimated at one dollar then we produce  
+million dollars per hour this year as we release thirtysix text 
+files per month or  more etexts in  for a total of  
+if these reach just  of the computerized population then the 
+total should reach over  billion etexts given away this year 
+
+the goal of project gutenberg is to give away one trillion etext 
+files by december    x    trillion 
+this is ten thousand titles each to one hundred million readers 
+which is only  of the present number of computer users 
+
+at our revised rates of production we will reach only onethird 
+of that goal by the end of  or about  etexts unless we 
+manage to get some real funding currently our funding is mostly 
+from michael harts salary at carnegiemellon university and an 
+assortment of sporadic gifts this salary is only good for a few 
+more years so we are looking for something to replace it as we 
+dont want project gutenberg to be so dependent on one person 
+
+we need your donations more than ever 
+
+
+all donations should be made to project gutenbergcmu and are 
+tax deductible to the extent allowable by law   carnegie 
+mellon university 
+
+for these and other matters please mail to 
+
+project gutenberg 
+  box  
+champaign   
+
+when all other email fails  try our executive director 
+michael  hart hartpoboxcom 
+hartpoboxcom forwards to hartprairienetorg and archiveorg 
+if your mail bounces from archiveorg  will still see it if 
+it bounces from prairienetorg better resend later on    
+
+we would prefer to send you this information by email 
+
+ 
+
+to access project gutenberg etexts use any web browser 
+to view httppromonetpg this site lists etexts by 
+author and by title and includes information about how 
+to get involved with project gutenberg you could also 
+download our past newsletters or subscribe here this 
+is one of our major sites please email hartpoboxcom 
+for a more complete list of our various sites 
+
+to go directly to the etext collections use  or any 
+web browser to visit a project gutenberg mirror mirror 
+sites are available on  continents mirrors are listed 
+at httppromonetpg 
+
+mac users do  point and click typing works better 
+
+example  session 
+
+ftp sunsiteuncedu 
+login anonymous 
+password yourlogin 
+cd pubdocsbooksgutenberg 
+cd  through  
+dir to see files 
+get or mget to get files  set bin for zip files 
+  to get a years listing of books eg  
+  to get a listing of  books 
+
+ 
+
+information prepared by the project gutenberg legal advisor 
+
+three pages 
+
+
+      
+why is this small print statement here you know lawyers 
+they tell us you might sue us if there is something wrong with 
+your copy of this etext even if you got it for free from 
+someone other than us and even if whats wrong is not our 
+fault so among other things this small print statement 
+disclaims most of our liability to you it also tells you how 
+you can distribute copies of this etext if you want to 
+
+       
+by using or reading any part of this  gutenbergtm 
+etext you indicate that you understand agree to and accept 
+this small print statement if you do not you can receive 
+a refund of the money if any you paid for this etext by 
+sending a request within  days of receiving it to the person 
+you got it from if you received this etext on a physical 
+medium such as a disk you must return it with your request 
+
+    
+this  gutenbergtm etext like most   
+tm etexts is a public domain work distributed by professor 
+michael  hart through the project gutenberg association at 
+carnegiemellon university the project among other 
+things this means that no one owns a united states copyright 
+on or for this work so the project and you can copy and 
+distribute it in the united states without permission and 
+without paying copyright royalties special rules set forth 
+below apply if you wish to copy and distribute this etext 
+under the projects   trademark 
+
+to create these etexts the project expends considerable 
+efforts to identify transcribe and proofread public domain 
+works despite these efforts the projects etexts and any 
+medium they may be on may contain defects among other 
+things defects may take the form of incomplete inaccurate or 
+corrupt data transcription errors a copyright or other 
+intellectual property infringement a defective or damaged 
+disk or other etext medium a computer virus or computer 
+codes that damage or cannot be read by your equipment 
+
+     
+but for the right of replacement or refund described below 
+ the project and any other party you may receive this 
+etext from as a  gutenbergtm etext disclaims all 
+liability to you for damages costs and expenses including 
+legal fees and         
+          
+        
+          
+    
+
+if you discover a defect in this etext within  days of 
+receiving it you can receive a refund of the money if any 
+you paid for it by sending an explanatory note within that 
+time to the person you received it from if you received it 
+on a physical medium you must return it with your note and 
+such person may choose to alternatively give you a replacement 
+copy if you received it electronically such person may 
+choose to alternatively give you a second opportunity to 
+receive it electronically 
+
+          
+            
+             
+         
+  
+
+some states do not allow disclaimers of implied warranties or 
+the exclusion or limitation of consequential damages so the 
+above disclaimers and exclusions may not apply to you and you 
+may have other legal rights 
+
+ 
+you will indemnify and hold the project its directors 
+officers members and agents harmless from all liability cost 
+and expense including legal fees that arise directly or 
+indirectly from any of the following that you do or cause 
+ distribution of this etext  alteration modification 
+or addition to the etext or  any defect 
+
+   gutenbergtm 
+you may distribute copies of this etext electronically or by 
+disk book or any other medium if you either delete this 
+small print and all other references to project gutenberg 
+or 
+
+ only give exact copies of it among other things this 
+requires that you do not remove alter or modify the 
+etext or this small print statement you may however 
+if you wish distribute this etext in machine readable 
+binary compressed markup or proprietary form 
+including any form resulting from conversion by word pro 
+cessing or hypertext software but only so long as 
+ 
+
+ the etext when displayed is clearly readable and 
+does not contain characters other than those 
+intended by the author of the work although tilde 
+ asterisk  and underline  characters may 
+be used to convey punctuation intended by the 
+author and additional characters may be used to 
+indicate hypertext links  
+
+ the etext may be readily converted by the reader at 
+no expense into plain   or equivalent 
+form by the program that displays the etext as is 
+the case for instance with most word processors 
+ 
+
+ you provide or agree to also provide on request at 
+no additional cost fee or expense a copy of the 
+etext in its original plain  form or in  
+or other equivalent proprietary form 
+
+ honor the etext refund and replacement provisions of this 
+small print statement 
+
+ pay a trademark license fee to the project of  of the 
+net profits you derive calculated using the method you 
+already use to calculate your applicable taxes if you 
+dont derive profits no royalty is due royalties are 
+payable to project gutenberg associationcarnegiemellon 
+university within the  days following each 
+date you prepare or were legally required to prepare 
+your annual or equivalent periodic tax return 
+
+             
+the project gratefully accepts contributions in money time 
+scanning machines  software public domain etexts royalty 
+free copyright licenses and every other sort of contribution 
+you can think of money should be paid to project gutenberg 
+association  carnegiemellon university 
+
+       
+
+
+
+
+
+project gutenbergs etext of shakespeares the tragedie of hamlet 
+
+
+
+
+executive directors notes 
+
+in addition to the notes below and so you will  think all 
+the spelling errors introduced by the printers of the time have 
+been corrected here are the first few lines of hamlet as they 
+are presented herein 
+
+barnardo whos there 
+fran nay answer me stand  vnfold 
+your selfe 
+
+bar long liue the king 
+
+ 
+
+as  understand it the printers often ran out of certain words 
+or letters they had often packed into a cliche  this is the 
+original meaning of the term cliche  and thus being unwilling 
+to unpack the cliches and thus you will see some substitutions 
+that look very odd  such as the exchanges of u for v v for u 
+above  and you may wonder why they did it this way presuming 
+shakespeare did not actually write the play in this manner    
+
+the answer is that they  have packed liue into a cliche at a 
+time when they were out of vs  possibly having used vv in 
+place of some ws etc this was a common practice of the day 
+as print was still quite expensive and they didnt want to spend 
+more on a wider selection of characters than they had to 
+
+you will find a lot of these kinds of errors in this text as  
+have mentioned in other times and places many scholars have an 
+extreme attachment to these errors and many have accorded them a 
+very high place in the canon of shakespeare my father read an 
+assortment of these made available to him by cambridge university 
+in england for several months in a glass room constructed for the 
+purpose to the best of my knowledge he read  those available 
+  in great detail  and determined from the various changes 
+that shakespeare most likely did not write in nearly as many of a 
+variety of errors we credit him for even though he was infamous 
+for signing his name with several different spellings 
+
+so please take this into account when reading the comments below 
+made by our volunteer who prepared this file you may see errors 
+that are not errors    
+
+so  with this caveat  we have  changed the canon errors 
+here is the project gutenberg etext of shakespeares the tragedie 
+of hamlet 
+
+michael  hart 
+project gutenberg 
+executive director 
+
+
+ 
+
+
+scanners notes what this is and isnt this was taken from 
+a copy of shakespeares first folio and it is as close as  can 
+come in  to the printed text 
+
+the elongated ss have been changed to small ss and the 
+conjoined ae have been changed to ae  have left the spelling 
+punctuation capitalization as close as possible to the 
+printed text  have corrected some spelling mistakes  have put 
+together a spelling dictionary devised from the spellings of the 
+geneva bible and shakespeares first folio and have unified 
+spellings according to this template typos and expanded 
+abbreviations as  have come across them everything within 
+brackets  is what  have added so if you dont like that 
+you can delete everything within the brackets if you want a 
+purer shakespeare 
+
+another thing that you should be aware of is that there are textual 
+differences between various copies of the first folio so there may 
+be differences other than what  have mentioned above between 
+this and other first folio editions this is due to the printers 
+habit of setting the type and running off a number of copies and 
+then proofing the printed copy and correcting the type and then 
+continuing the printing run the proof run wasnt thrown away but 
+incorporated into the printed copies this is just the way it is 
+the text  have used was a composite of more than  different 
+first folio editions best pages 
+
+if you find any scanning errors out and out typos punctuation 
+errors or if you disagree with my spelling choices please feel 
+free to email me those errors  wish to make this the best 
+etext possible my email address for right now are haraddaaolcom 
+and davidrinconnectcom  hope that you enjoy this 
+
+david reed 
+
+the tragedie of hamlet 
+
+actus primus scoena prima 
+
+enter barnardo and francisco two centinels 
+
+barnardo whos there 
+fran nay answer me stand  vnfold 
+your selfe 
+
+bar long liue the king 
+
+fran barnardo 
+bar he 
+
+fran you come most carefully vpon your houre 
+
+bar tis now strook twelue get thee to bed francisco 
+
+fran for this releefe much thankes tis bitter cold 
+and  am sicke at heart 
+
+barn haue you had quiet guard 
+fran not a mouse stirring 
+
+barn well goodnight if you do meet horatio and 
+marcellus the riuals of my watch bid them make hast 
+enter horatio and marcellus 
+
+fran  thinke  heare them stand whos there 
+hor friends to this ground 
+
+mar and leigemen to the dane 
+
+fran giue you good night 
+
+mar  farwel honest soldier who hath relieud you 
+fra barnardo has my place giue you goodnight 
+
+exit fran 
+
+mar holla barnardo 
+
+bar say what is horatio there 
+hor  peece of him 
+
+bar welcome horatio welcome good marcellus 
+
+mar what has this thing appeard againe to night 
+
+bar  haue seene nothing 
+
+mar horatio saies tis but our fantasie 
+and will not let beleefe take hold of him 
+touching this dreaded sight twice seene of vs 
+therefore  haue intreated him along 
+with vs to watch the minutes of this night 
+that if againe this apparition come 
+he may approue our eyes and speake to it 
+
+hor tush tush twill not appeare 
+
+bar sit downe awhile 
+and let vs once againe assaile your eares 
+that are so fortified against our story 
+what we two nights haue seene 
+
+hor well sit we downe 
+and let vs heare barnardo speake of this 
+
+barn last night of all 
+when yond same starre thats westward from the pole 
+had made his course t illume that part of heauen 
+where now it burnes marcellus and my selfe 
+the bell then beating one 
+
+mar peace breake thee of 
+enter the ghost 
+
+looke where it comes againe 
+
+barn in the same figure like the king thats dead 
+
+mar thou art a scholler speake to it horatio 
+
+barn lookes it not like the king marke it horatio 
+
+hora most like it harrowes me with fear  wonder 
+barn it would be spoke too 
+
+mar question it horatio 
+
+hor what art thou that vsurpst this time of night 
+together with that faire and warlike forme 
+in which the maiesty of buried denmarke 
+did sometimes march by heauen  charge thee speake 
+
+mar it is offended 
+
+barn see it stalkes away 
+
+hor stay speake speake  charge thee speake 
+
+exit the ghost 
+
+mar tis gone and will not answer 
+
+barn how now horatio you tremble  look pale 
+is not this something more then fantasie 
+what thinke you ont 
+hor before my god  might not this beleeue 
+without the sensible and true auouch 
+of mine owne eyes 
+
+mar is it not like the king 
+hor as thou art to thy selfe 
+such was the very armour he had on 
+when th ambitious norwey combatted 
+so frownd he once when in an angry parle 
+he smot the sledded pollax on the ice 
+tis strange 
+
+mar thus twice before and iust at this dead houre 
+with martiall stalke hath he gone by our watch 
+
+hor in what particular thought to work  know not 
+but in the grosse and scope of my opinion 
+this boades some strange erruption to our state 
+
+mar good now sit downe  tell me he that knowes 
+why this same strict and most obseruant watch 
+so nightly toyles the subiect of the land 
+and why such dayly cast of brazon cannon 
+and forraigne mart for implements of warre 
+why such impresse of shipwrights whose sore taske 
+dos not diuide the sunday from the weeke 
+what might be toward that this sweaty hast 
+doth make the night ioyntlabourer with the day 
+who ist that can informe me 
+hor that can  
+at least the whisper goes so our last king 
+whose image euen but now appeard to vs 
+was as you know by fortinbras of norway 
+thereto prickd on by a most emulate pride 
+dard to the combate in which our valiant hamlet 
+for so this side of our knowne world esteemd him 
+did slay this fortinbras who by a seald compact 
+well ratified by law and heraldrie 
+did forfeite with his life all those his lands 
+which he stood seizd on to the conqueror 
+against the which a moity competent 
+was gaged by our king which had returnd 
+to the inheritance of fortinbras 
+had he bin vanquisher as by the same counant 
+and carriage of the article designe 
+his fell to hamlet now sir young fortinbras 
+of vnimproued mettle hot and full 
+hath in the skirts of norway heere and there 
+sharkd vp a list of landlesse resolutes 
+for foode and diet to some enterprize 
+that hath a stomacke int which is no other 
+and it doth well appeare vnto our state 
+but to recouer of vs by strong hand 
+and termes compulsatiue those foresaid lands 
+so by his father lost and this  take it 
+is the maine motiue of our preparations 
+the sourse of this our watch and the cheefe head 
+of this posthast and romage in the land 
+enter ghost againe 
+
+but soft behold loe where it comes againe 
+ile crosse it though it blast me stay illusion 
+if thou hast any sound or vse of voyce 
+speake to me if there be any good thing to be done 
+that may to thee do ease and grace to me speak to me 
+if thou art priuy to thy countries fate 
+which happily foreknowing may auoyd oh speake 
+or if thou hast vphoorded in thy life 
+extorted treasure in the wombe of earth 
+for which they say you spirits oft walke in death 
+speake of it stay and speake stop it marcellus 
+
+mar shall  strike at it with my partizan 
+hor do if it will not stand 
+
+barn tis heere 
+
+hor tis heere 
+
+mar tis gone 
+
+exit ghost 
+
+we do it wrong being so maiesticall 
+to offer it the shew of violence 
+for it is as the ayre invulnerable 
+and our vaine blowes malicious mockery 
+
+barn it was about to speake when the cocke crew 
+
+hor and then it started like a guilty thing 
+vpon a fearfull summons  haue heard 
+the cocke that is the trumpet to the day 
+doth with his lofty and shrillsounding throate 
+awake the god of day and at his warning 
+whether in sea or fire in earth or ayre 
+th extrauagant and erring spirit hyes 
+to his confine and of the truth heerein 
+this present obiect made probation 
+
+mar it faded on the crowing of the cocke 
+some sayes that euer gainst that season comes 
+wherein our sauiours birch is celebrated 
+the bird of dawning singeth all night long 
+and then they say no spirit can walke abroad 
+the nights are wholsome then no planets strike 
+no faiery talkes nor witch hath power to charme 
+so hallowd and so gracious is the time 
+
+hor so haue  heard and do in part beleeue it 
+but looke the morne in russet mantle clad 
+walkes ore the dew of yon high easterne hill 
+breake we our watch vp and by my aduice 
+let vs impart what we haue seene to night 
+vnto yong hamlet for vpon my life 
+this spirit dumbe to vs will speake to him 
+do you consent we shall acquaint him with it 
+as needfull in our loues fitting our duty 
+mar let dot  pray and  this morning know 
+where we shall finde him most conueniently 
+
+exeunt 
+
+scena secunda 
+
+enter claudius king of denmarke gertrude the queene hamlet 
+polonius 
+laertes and his sister ophelia lords attendant 
+
+king though yet of hamlet our deere brothers death 
+the memory be greene and that it vs befitted 
+to beare our hearts in greefe and our whole kingdome 
+to be contracted in one brow of woe 
+yet so farre hath discretion fought with nature 
+that we with wisest sorrow thinke on him 
+together with remembrance of our selues 
+therefore our sometimes sister now our queene 
+th imperiall ioyntresse of this warlike state 
+haue we as twere with a defeated ioy 
+with one auspicious and one dropping eye 
+with mirth in funerall and with dirge in marriage 
+in equall scale weighing delight and dole 
+taken to wife nor haue we heerein barrd 
+your better wisedomes which haue freely gone 
+with this affaire along for all our thankes 
+now followes that you know young fortinbras 
+holding a weake supposall of our worth 
+or thinking by our late deere brothers death 
+our state to be disioynt and out of frame 
+colleagued with the dreame of his aduantage 
+he hath not fayld to pester vs with message 
+importing the surrender of those lands 
+lost by his father with all bonds of law 
+to our most valiant brother so much for him 
+enter voltemand and cornelius 
+
+now for our selfe and for this time of meeting 
+thus much the businesse is we haue heere writ 
+to norway vncle of young fortinbras 
+who impotent and bedrid scarsely heares 
+of this his nephewes purpose to suppresse 
+his further gate heerein in that the leuies 
+the lists and full proportions are all made 
+out of his subiect and we heere dispatch 
+you good cornelius and you voltemand 
+for bearing of this greeting to old norway 
+giuing to you no further personall power 
+to businesse with the king more then the scope 
+of these dilated articles allow 
+farewell and let your hast commend your duty 
+
+volt in that and all things will we shew our duty 
+
+king we doubt it nothing heartily farewell 
+
+exit voltemand and cornelius 
+
+and now laertes whats the newes with you 
+you told vs of some suite what ist laertes 
+you cannot speake of reason to the dane 
+and loose your voyce what wouldst thou beg laertes 
+that shall not be my offer not thy asking 
+the head is not more natiue to the heart 
+the hand more instrumentall to the mouth 
+then is the throne of denmarke to thy father 
+what wouldst thou haue laertes 
+laer dread my lord 
+your leaue and fauour to returne to france 
+from whence though willingly  came to denmarke 
+to shew my duty in your coronation 
+yet now  must confesse that duty done 
+my thoughts and wishes bend againe towards france 
+and bow them to your gracious leaue and pardon 
+
+king haue you your fathers leaue 
+what sayes pollonius 
+pol he hath my lord 
+ do beseech you giue him leaue to go 
+
+king take thy faire houre laertes time be thine 
+and thy best graces spend it at thy will 
+but now my cosin hamlet and my sonne 
+ham  little more then kin and lesse then kinde 
+
+king how is it that the clouds still hang on you 
+ham not so my lord  am too much ith sun 
+
+queen good hamlet cast thy nightly colour off 
+and let thine eye looke like a friend on denmarke 
+do not for euer with thy veyled lids 
+seeke for thy noble father in the dust 
+thou knowst tis common all that liues must dye 
+passing through nature to eternity 
+
+ham  madam it is common 
+
+queen if it be 
+why seemes it so particular with thee 
+
+ham seemes madam nay it is  know not seemes 
+tis not alone my inky cloake good mother 
+nor customary suites of solemne blacke 
+nor windy suspiration of forcd breath 
+no nor the fruitfull riuer in the eye 
+nor the deiected hauiour of the visage 
+together with all formes moods shewes of griefe 
+that can denote me truly these indeed seeme 
+for they are actions that a man might play 
+but  haue that within which passeth show 
+these but the trappings and the suites of woe 
+
+king tis sweet and commendable 
+in your nature hamlet 
+to giue these mourning duties to your father 
+but you must know your father lost a father 
+that father lost lost his and the suruiuer bound 
+in filiall obligation for some terme 
+to do obsequious sorrow but to perseuer 
+in obstinate condolement is a course 
+of impious stubbornnesse tis vnmanly greefe 
+it shewes a will most incorrect to heauen 
+ heart vnfortified a minde impatient 
+an vnderstanding simple and vnschoold 
+for what we know must be and is as common 
+as any the most vulgar thing to sence 
+why should we in our peeuish opposition 
+take it to heart fye tis a fault to heauen 
+ fault against the dead a fault to nature 
+to reason most absurd whose common theame 
+is death of fathers and who still hath cried 
+from the first coarse till he that dyed to day 
+this must be so we pray you throw to earth 
+this vnpreuayling woe and thinke of vs 
+as of a father for let the world take note 
+you are the most immediate to our throne 
+and with no lesse nobility of loue 
+then that which deerest father beares his sonne 
+do  impart towards you for your intent 
+in going backe to schoole in wittenberg 
+it is most retrograde to our desire 
+and we beseech you bend you to remaine 
+heere in the cheere and comfort of our eye 
+our cheefest courtier cosin and our sonne 
+
+qu let not thy mother lose her prayers hamlet 
+ prythee stay with vs go not to wittenberg 
+
+ham  shall in all my best 
+obey you madam 
+
+king why tis a louing and a faire reply 
+be as our selfe in denmarke madam come 
+this gentle and vnforcd accord of hamlet 
+sits smiling to my heart in grace whereof 
+no iocond health that denmarke drinkes to day 
+but the great cannon to the clowds shall tell 
+and the kings rouce the heauens shall bruite againe 
+respeaking earthly thunder come away 
+
+exeunt 
+
+manet hamlet 
+
+ham oh that this too too solid flesh would melt 
+thaw and resolue it selfe into a dew 
+or that the euerlasting had not fixt 
+his cannon gainst selfeslaughter  god  god 
+how weary stale flat and vnprofitable 
+seemes to me all the vses of this world 
+fie ont oh fie fie tis an vnweeded garden 
+that growes to seed things rank and grosse in nature 
+possesse it meerely that it should come to this 
+but two months dead nay not so much not two 
+so excellent a king that was to this 
+hiperion to a satyre so louing to my mother 
+that he might not beteene the windes of heauen 
+visit her face too roughly heauen and earth 
+must  remember why she would hang on him 
+as if encrease of appetite had growne 
+by what is fed on and yet within a month 
+let me not thinke ont frailty thy name is woman 
+ little month or ere those shooes were old 
+with which she followed my poore fathers body 
+like niobe all teares why she euen she 
+ heauen  beast that wants discourse of reason 
+would haue mournd longer married with mine vnkle 
+my fathers brother but no more like my father 
+then  to hercules within a moneth 
+ere yet the salt of most vnrighteous teares 
+had left the flushing of her gauled eyes 
+she married  most wicked speed to post 
+with such dexterity to incestuous sheets 
+it is not nor it cannot come to good 
+but breake my heart for  must hold my tongue 
+enter horatio barnardo and marcellus 
+
+hor haile to your lordship 
+
+ham  am glad to see you well 
+horatio or  do forget my selfe 
+
+hor the same my lord 
+and your poore seruant euer 
+
+ham sir my good friend 
+ile change that name with you 
+and what make you from wittenberg horatio 
+marcellus 
+
+mar my good lord 
+
+ham  am very glad to see you good euen sir 
+but what in faith make you from wittemberge 
+hor  truant disposition good my lord 
+
+ham  would not haue your enemy say so 
+nor shall you doe mine eare that violence 
+to make it truster of your owne report 
+against your selfe  know you are no truant 
+but what is your affaire in elsenour 
+weel teach you to drinke deepe ere you depart 
+
+hor my lord  came to see your fathers funerall 
+
+ham  pray thee doe not mock me fellow student 
+ thinke it was to see my mothers wedding 
+
+hor indeed my lord it followed hard vpon 
+
+ham thrift thrift horatio the funerall baktmeats 
+did coldly furnish forth the marriage tables 
+would  had met my dearest foe in heauen 
+ere  had euer seene that day horatio 
+my father me thinkes  see my father 
+
+hor oh where my lord 
+ham in my minds eye horatio 
+hor  saw him once he was a goodly king 
+
+ham he was a man take him for all in all 
+ shall not look vpon his like againe 
+
+hor my lord  thinke  saw him yesternight 
+
+ham saw who 
+hor my lord the king your father 
+
+ham the king my father 
+hor season your admiration for a while 
+with an attent eare till  may deliuer 
+vpon the witnesse of these gentlemen 
+this maruell to you 
+
+ham for heauens loue let me heare 
+
+hor two nights together had these gentlemen 
+marcellus and barnardo on their watch 
+in the dead wast and middle of the night 
+beene thus encountred  figure like your father 
+armd at all points exactly cap a pe 
+appeares before them and with sollemne march 
+goes slow and stately by them thrice he walkt 
+by their opprest and fearesurprized eyes 
+within his truncheons length whilst they bestild 
+almost to ielly with the act of feare 
+stand dumbe and speake not to him this to me 
+in dreadfull secrecie impart they did 
+and  with them the third night kept the watch 
+whereas they had deliuerd both in time 
+forme of the thing each word made true and good 
+the apparition comes  knew your father 
+these hands are not more like 
+
+ham but where was this 
+mar my lord vpon the platforme where we watcht 
+
+ham did you not speake to it 
+hor my lord  did 
+but answere made it none yet once me thought 
+it lifted vp it head and did addresse 
+it selfe to motion like as it would speake 
+but euen then the morning cocke crew lowd 
+and at the sound it shrunke in hast away 
+and vanisht from our sight 
+
+ham tis very strange 
+
+hor as  doe liue my honourd lord tis true 
+and we did thinke it writ downe in our duty 
+to let you know of it 
+
+ham indeed indeed sirs but this troubles me 
+hold you the watch to night 
+both we doe my lord 
+
+ham armd say you 
+both armd my lord 
+
+ham from top to toe 
+both my lord from head to foote 
+
+ham then saw you not his face 
+hor  yes my lord he wore his beauer vp 
+
+ham what lookt he frowningly 
+hor  countenance more in sorrow then in anger 
+
+ham pale or red 
+hor nay very pale 
+
+ham and fixt his eyes vpon you 
+hor most constantly 
+
+ham  would  had beene there 
+
+hor it would haue much amazd you 
+
+ham very like very like staid it long 
+hor while one with moderate hast might tell a hundred 
+
+all longer longer 
+
+hor not when  sawt 
+
+ham his beard was grisly no 
+
+hor it was as  haue seene it in his life 
+ sable siluerd 
+
+ham ile watch to night perchance twill wake againe 
+
+hor  warrant you it will 
+
+ham if it assume my noble fathers person 
+ile speake to it though hell it selfe should gape 
+and bid me hold my peace  pray you all 
+if you haue hitherto conceald this sight 
+let it bee treble in your silence still 
+and whatsoeuer els shall hap to night 
+giue it an vnderstanding but no tongue 
+ will requite your loues so fare ye well 
+vpon the platforme twixt eleuen and twelue 
+ile visit you 
+
+all our duty to your honour 
+
+exeunt 
+
+ham your loue as mine to you farewell 
+my fathers spirit in armes all is not well 
+ doubt some foule play would the night were come 
+till then sit still my soule foule deeds will rise 
+though all the earth orewhelm them to mens eies 
+enter 
+
+
+scena tertia 
+
+
+enter laertes and ophelia 
+
+laer my necessaries are imbarkt farewell 
+and sister as the winds giue benefit 
+and conuoy is assistant doe not sleepe 
+but let me heare from you 
+
+ophel doe you doubt that 
+laer for hamlet and the trifling of his fauours 
+hold it a fashion and a toy in bloude 
+ violet in the youth of primy nature 
+froward not permanent sweet not lasting 
+the suppliance of a minute no more 
+
+ophel no more but so 
+
+laer thinke it no more 
+for nature cressant does not grow alone 
+in thewes and bulke but as his temple waxes 
+the inward seruice of the minde and soule 
+growes wide withall perhaps he loues you now 
+and now no soyle nor cautell doth besmerch 
+the vertue of his feare but you must feare 
+his greatnesse weighd his will is not his owne 
+for hee himselfe is subiect to his birth 
+hee may not as vnuallued persons doe 
+carue for himselfe for on his choyce depends 
+the sanctity and health of the whole state 
+and therefore must his choyce be circumscribd 
+vnto the voyce and yeelding of that body 
+whereof he is the head then if he sayes he loues you 
+it fits your wisedome so farre to beleeue it 
+as he in his peculiar sect and force 
+may giue his saying deed which is no further 
+then the maine voyce of denmarke goes withall 
+then weight what losse your honour may sustaine 
+if with too credent eare you list his songs 
+or lose your heart or your chast treasure open 
+to his vnmastred importunity 
+feare it ophelia feare it my deare sister 
+and keepe within the reare of your affection 
+out of the shot and danger of desire 
+the chariest maid is prodigall enough 
+if she vnmaske her beauty to the moone 
+vertue it selfe scapes not calumnious stroakes 
+the canker galls the infants of the spring 
+too oft before the buttons be disclosd 
+and in the morne and liquid dew of youth 
+contagious blastments are most imminent 
+be wary then best safety lies in feare 
+youth to it selfe rebels though none else neere 
+
+ophe  shall th effect of this good lesson keepe 
+as watchmen to my heart but good my brother 
+doe not as some vngracious pastors doe 
+shew me the steepe and thorny way to heauen 
+whilst like a puft and recklesse libertine 
+himselfe the primrose path of dalliance treads 
+and reaks not his owne reade 
+
+laer oh feare me not 
+enter polonius 
+
+ stay too long but here my father comes 
+ double blessing is a double grace 
+occasion smiles vpon a second leaue 
+
+polon yet heere laertes aboord aboord for shame 
+the winde sits in the shoulder of your saile 
+and you are staid for there my blessing with you 
+and these few precepts in thy memory 
+see thou character giue thy thoughts no tongue 
+nor any vnproportiond thoughts his act 
+be thou familiar but by no meanes vulgar 
+the friends thou hast and their adoption tride 
+grapple them to thy soule with hoopes of steele 
+but doe not dull thy palme with entertainment 
+of each vnhatcht vnfledgd comrade beware 
+of entrance to a quarrell but being in 
+beart that th opposed may beware of thee 
+giue euery man thine eare but few thy voyce 
+take each mans censure but reserue thy iudgement 
+costly thy habit as thy purse can buy 
+but not exprest in fancie rich not gawdie 
+for the apparell oft proclaimes the man 
+and they in france of the best ranck and station 
+are of a most select and generous cheff in that 
+neither a borrower nor a lender be 
+for lone oft loses both it selfe and friend 
+and borrowing duls the edge of husbandry 
+this aboue all to thine owne selfe be true 
+and it must follow as the night the day 
+thou canst not then be false to any man 
+farewell my blessing season this in thee 
+
+laer most humbly doe  take my leaue my lord 
+
+polon the time inuites you goe your seruants tend 
+
+laer farewell ophelia and remember well 
+what  haue said to you 
+
+ophe tis in my memory lockt 
+and you your selfe shall keepe the key of it 
+
+laer farewell 
+
+exit laer 
+
+polon what ist ophelia he hath said to you 
+ophe so please you somthing touching the lord hamlet 
+
+polon marry well bethought 
+tis told me he hath very oft of late 
+giuen priuate time to you and you your selfe 
+haue of your audience beene most free and bounteous 
+if it be so as so tis put on me 
+and that in way of caution  must tell you 
+you doe not vnderstand your selfe so cleerely 
+as it behoues my daughter and your honour 
+what is betweene you giue me vp the truth 
+ophe he hath my lord of late made many tenders 
+of his affection to me 
+
+polon affection puh you speake like a greene girle 
+vnsifted in such perillous circumstance 
+doe you beleeue his tenders as you call them 
+ophe  do not know my lord what  should thinke 
+
+polon marry ile teach you thinke your selfe a baby 
+that you haue tane his tenders for true pay 
+which are not starling tender your selfe more dearly 
+or not to crack the winde of the poore phrase 
+roaming it thus youl tender me a foole 
+
+ophe my lord he hath importund me with loue 
+in honourable fashion 
+
+polon  fashion you may call it go too go too 
+
+ophe and hath giuen countenance to his speech 
+my lord with all the vowes of heauen 
+
+polon  springes to catch woodcocks  doe know 
+when the bloud burnes how prodigall the soule 
+giues the tongue vowes these blazes daughter 
+giuing more light then heate extinct in both 
+euen in their promise as it is a making 
+you must not take for fire for this time daughter 
+be somewhat scanter of your maiden presence 
+set your entreatments at a higher rate 
+then a command to parley for lord hamlet 
+beleeue so much in him that he is young 
+and with a larger tether may he walke 
+then may be giuen you in few ophelia 
+doe not beleeue his vowes for they are broakers 
+not of the eye which their inuestments show 
+but meere implorators of vnholy sutes 
+breathing like sanctified and pious bonds 
+the better to beguile this is for all 
+ would not in plaine tearmes from this time forth 
+haue you so slander any moment leisure 
+as to giue words or talke with the lord hamlet 
+looke toot  charge you come your wayes 
+
+ophe  shall obey my lord 
+
+exeunt 
+
+enter hamlet horatio marcellus 
+
+ham the ayre bites shrewdly is it very cold 
+hor it is a nipping and an eager ayre 
+
+ham what hower now 
+hor  thinke it lacks of twelue 
+
+mar no it is strooke 
+
+hor indeed  heard it not then it drawes neere the season 
+wherein the spirit held his wont to walke 
+what does this meane my lord 
+ham the king doth wake to night and takes his rouse 
+keepes wassels and the swaggering vpspring reeles 
+and as he dreines his draughts of renish downe 
+the kettle drum and trumpet thus bray out 
+the triumph of his pledge 
+
+horat is it a custome 
+ham  marry ist 
+and to my mind though  am natiue heere 
+and to the manner borne it is a custome 
+more honourd in the breach then the obseruance 
+enter ghost 
+
+hor looke my lord it comes 
+
+ham angels and ministers of grace defend vs 
+be thou a spirit of health or goblin damnd 
+bring with thee ayres from heauen or blasts from hell 
+be thy euents wicked or charitable 
+thou comst in such a questionable shape 
+that  will speake to thee ile call thee hamlet 
+king father royall dane oh oh answer me 
+let me not burst in ignorance but tell 
+why thy canonizd bones hearsed in death 
+haue burst their cerments why the sepulcher 
+wherein we saw thee quietly enurnd 
+hath opd his ponderous and marble iawes 
+to cast thee vp againe what may this meane 
+that thou dead coarse againe in compleat steele 
+reuisits thus the glimpses of the moone 
+making night hidious and we fooles of nature 
+so horridly to shake our disposition 
+with thoughts beyond thee reaches of our soules 
+say why is this wherefore what should we doe 
+
+ghost beckens hamlet 
+
+hor it beckons you to goe away with it 
+as if it some impartment did desire 
+to you alone 
+
+mar looke with what courteous action 
+it wafts you to a more remoued ground 
+but doe not goe with it 
+
+hor no by no meanes 
+
+ham it will not speake then will  follow it 
+
+hor doe not my lord 
+
+ham why what should be the feare 
+ doe not set my life at a pins fee 
+and for my soule what can it doe to that 
+being a thing immortall as it selfe 
+it waues me forth againe ile follow it 
+
+hor what if it tempt you toward the floud my lord 
+or to the dreadfull sonnet of the cliffe 
+that beetles ore his base into the sea 
+and there assumes some other horrible forme 
+which might depriue your soueraignty of reason 
+and draw you into madnesse thinke of it 
+ham it wafts me still goe on ile follow thee 
+
+mar you shall not goe my lord 
+
+ham hold off your hand 
+
+hor be ruld you shall not goe 
+
+ham my fate cries out 
+and makes each petty artire in this body 
+as hardy as the nemian lions nerue 
+still am  cald vnhand me gentlemen 
+by heaun ile make a ghost of him that lets me 
+ say away goe on ile follow thee 
+
+exeunt ghost  hamlet 
+
+hor he waxes desperate with imagination 
+
+mar lets follow tis not fit thus to obey him 
+
+hor haue after to what issue will this come 
+mar something is rotten in the state of denmarke 
+
+hor heauen will direct it 
+
+mar nay lets follow him 
+
+exeunt 
+
+enter ghost and hamlet 
+
+ham where wilt thou lead me speak ile go no further 
+
+gho marke me 
+
+ham  will 
+
+gho my hower is almost come 
+when  to sulphurous and tormenting flames 
+must render vp my selfe 
+
+ham alas poore ghost 
+
+gho pitty me not but lend thy serious hearing 
+to what  shall vnfold 
+
+ham speake  am bound to heare 
+
+gho so art thou to reuenge when thou shalt heare 
+
+ham what 
+gho  am thy fathers spirit 
+doomd for a certaine terme to walke the night 
+and for the day confind to fast in fiers 
+till the foule crimes done in my dayes of nature 
+are burnt and purgd away but that  am forbid 
+to tell the secrets of my prisonhouse 
+ could a tale vnfold whose lightest word 
+would harrow vp thy soule freeze thy young blood 
+make thy two eyes like starres start from their spheres 
+thy knotty and combined lockes to part 
+and each particular haire to stand an end 
+like quilles vpon the fretfull porpentine 
+but this eternall blason must not be 
+to eares of flesh and bloud list hamlet oh list 
+if thou didst euer thy deare father loue 
+
+ham oh heauen 
+gho reuenge his foule and most vnnaturall murther 
+
+ham murther 
+ghost murther most foule as in the best it is 
+but this most foule strange and vnnaturall 
+
+ham hast hast me to know it 
+that with wings as swift 
+as meditation or the thoughts of loue 
+may sweepe to my reuenge 
+
+ghost  finde thee apt 
+and duller shouldst thou be then the fat weede 
+that rots it selfe in ease on lethe wharfe 
+wouldst thou not stirre in this now hamlet heare 
+its giuen out that sleeping in mine orchard 
+ serpent stung me so the whole eare of denmarke 
+is by a forged processe of my death 
+rankly abusd but know thou noble youth 
+the serpent that did sting thy fathers life 
+now weares his crowne 
+
+ham  my propheticke soule mine vncle 
+ghost  that incestuous that adulterate beast 
+with witchcraft of his wits hath traitorous guifts 
+oh wicked wit and gifts that haue the power 
+so to seduce won to this shamefull lust 
+the will of my most seeming vertuous queene 
+oh hamlet what a falling off was there 
+from me whose loue was of that dignity 
+that it went hand in hand euen with the vow 
+ made to her in marriage and to decline 
+vpon a wretch whose naturall gifts were poore 
+to those of mine but vertue as it neuer wil be moued 
+though lewdnesse court it in a shape of heauen 
+so lust though to a radiant angell linkd 
+will sate it selfe in a celestiall bed  prey on garbage 
+but soft me thinkes  sent the mornings ayre 
+briefe let me be sleeping within mine orchard 
+my custome alwayes in the afternoone 
+vpon my secure hower thy vncle stole 
+with iuyce of cursed hebenon in a violl 
+and in the porches of mine eares did poure 
+the leaperous distilment whose effect 
+holds such an enmity with bloud of man 
+that swift as quicksiluer it courses through 
+the naturall gates and allies of the body 
+and with a sodaine vigour it doth posset 
+and curd like aygre droppings into milke 
+the thin and wholsome blood so did it mine 
+and a most instant tetter bakd about 
+most lazarlike with vile and loathsome crust 
+all my smooth body 
+thus was  sleeping by a brothers hand 
+of life of crowne and queene at once dispatcht 
+cut off euen in the blossomes of my sinne 
+vnhouzzled disappointed vnnaneld 
+no reckoning made but sent to my account 
+with all my imperfections on my head 
+oh horrible oh horrible most horrible 
+if thou hast nature in thee beare it not 
+let not the royall bed of denmarke be 
+ couch for luxury and damned incest 
+but howsoeuer thou pursuest this act 
+taint not thy mind nor let thy soule contriue 
+against thy mother ought leaue her to heauen 
+and to those thornes that in her bosome lodge 
+to pricke and sting her fare thee well at once 
+the glowworme showes the matine to be neere 
+and gins to pale his vneffectuall fire 
+adue adue hamlet remember me 
+enter 
+
+ham oh all you host of heauen oh earth what els 
+and shall  couple hell oh fie hold my heart 
+and you my sinnewes grow not instant old 
+but beare me stiffely vp remember thee 
+ thou poore ghost while memory holds a seate 
+in this distracted globe remember thee 
+yea from the table of my memory 
+ile wipe away all triuiall fond records 
+all sawes of bookes all formes all presures past 
+that youth and obseruation coppied there 
+and thy commandment all alone shall liue 
+within the booke and volume of my braine 
+vnmixt with baser matter yes yes by heauen 
+oh most pernicious woman 
+oh villaine villaine smiling damned villaine 
+my tables my tables meet it is  set it downe 
+that one may smile and smile and be a villaine 
+at least im sure it may be so in denmarke 
+so vnckle there you are now to my word 
+it is adue adue remember me  haue swornt 
+
+hor  mar within my lord my lord 
+enter horatio and marcellus 
+
+mar lord hamlet 
+
+hor heauen secure him 
+
+mar so be it 
+
+hor illo ho ho my lord 
+
+ham hillo ho ho boy come bird come 
+
+mar how ist my noble lord 
+hor what newes my lord 
+ham oh wonderfull 
+hor good my lord tell it 
+
+ham no youl reueale it 
+
+hor not  my lord by heauen 
+
+mar nor  my lord 
+
+ham how say you then would heart of man once think it 
+but youl be secret 
+both  by heaun my lord 
+
+ham theres nere a villaine dwelling in all denmarke 
+but hees an arrant knaue 
+
+hor there needs no ghost my lord come from the 
+graue to tell vs this 
+
+ham why right you are ith right 
+and so without more circumstance at all 
+ hold it fit that we shake hands and part 
+you as your busines and desires shall point you 
+for euery man has businesse and desire 
+such as it is and for mine owne poore part 
+looke you ile goe pray 
+
+hor these are but wild and hurling words my lord 
+
+ham im sorry they offend you heartily 
+yes faith heartily 
+
+hor theres no offence my lord 
+
+ham yes by saint patricke but there is my lord 
+and much offence too touching this vision heere 
+it is an honest ghost that let me tell you 
+for your desire to know what is betweene vs 
+oremastert as you may and now good friends 
+as you are friends schollers and soldiers 
+giue me one poore request 
+
+hor what ist my lord we will 
+
+ham neuer make known what you haue seen to night 
+
+both my lord we will not 
+
+ham nay but sweart 
+
+hor infaith my lord not  
+
+mar nor  my lord in faith 
+
+ham vpon my sword 
+
+marcell we haue sworne my lord already 
+
+ham indeed vpon my sword indeed 
+
+gho sweare 
+
+ghost cries vnder the stage 
+
+ham ah ha boy sayest thou so art thou there truepenny 
+come one you here this fellow in the selleredge 
+consent to sweare 
+
+hor propose the oath my lord 
+
+ham neuer to speake of this that you haue seene 
+sweare by my sword 
+
+gho sweare 
+
+ham hic  vbique then weel shift for grownd 
+come hither gentlemen 
+and lay your hands againe vpon my sword 
+neuer to speake of this that you haue heard 
+sweare by my sword 
+
+gho sweare 
+
+ham well said old mole canst worke ith ground so fast 
+ worthy pioner once more remoue good friends 
+
+hor oh day and night but this is wondrous strange 
+
+ham and therefore as a stranger giue it welcome 
+there are more things in heauen and earth horatio 
+then are dreamt of in our philosophy but come 
+here as before neuer so helpe you mercy 
+how strange or odde so ere  beare my selfe 
+as  perchance heereafter shall thinke meet 
+to put an anticke disposition on 
+that you at such time seeing me neuer shall 
+with armes encombred thus or thus head shake 
+or by pronouncing of some doubtfull phrase 
+as well we know or we could and if we would 
+or if we list to speake or there be and if there might 
+or such ambiguous giuing out to note 
+that you know ought of me this not to doe 
+so grace and mercy at your most neede helpe you 
+sweare 
+
+ghost sweare 
+
+ham rest rest perturbed spirit so gentlemen 
+with all my loue  doe commend me to you 
+and what so poore a man as hamlet is 
+may doe t expresse his loue and friending to you 
+god willing shall not lacke let vs goe in together 
+and still your fingers on your lippes  pray 
+the time is out of ioynt oh cursed spight 
+that euer  was borne to set it right 
+nay come lets goe together 
+
+exeunt 
+
+
+actus secundus 
+
+enter polonius and reynoldo 
+
+polon giue him his money and these notes reynoldo 
+
+reynol  will my lord 
+
+polon you shall doe maruels wisely good reynoldo 
+before you visite him you make inquiry 
+of his behauiour 
+
+reynol my lord  did intend it 
+
+polon marry well said 
+very well said looke you sir 
+enquire me first what danskers are in paris 
+and how and who what meanes and where they keepe 
+what company at what expence and finding 
+by this encompassement and drift of question 
+that they doe know my sonne come you more neerer 
+then your particular demands will touch it 
+take you as twere some distant knowledge of him 
+and thus  know his father and his friends 
+and in part him doe you marke this reynoldo 
+reynol  very well my lord 
+
+polon and in part him but you may say not well 
+but ift be hee  meane hees very wilde 
+addicted so and so and there put on him 
+what forgeries you please marry none so ranke 
+as may dishonour him take heed of that 
+but sir such wanton wild and vsuall slips 
+as are companions noted and most knowne 
+to youth and liberty 
+
+reynol as gaming my lord 
+
+polon  or drinking fencing swearing 
+quarelling drabbing you may goe so farre 
+
+reynol my lord that would dishonour him 
+
+polon faith no as you may season it in the charge 
+you must not put another scandall on him 
+that hee is open to incontinencie 
+thats not my meaning but breath his faults so quaintly 
+that they may seeme the taints of liberty 
+the flash and outbreake of a fiery minde 
+ sauagenes in vnreclaimd bloud of generall assault 
+
+reynol but my good lord 
+
+polon wherefore should you doe this 
+reynol  my lord  would know that 
+
+polon marry sir heeres my drift 
+and  belieue it is a fetch of warrant 
+you laying these slight sulleyes on my sonne 
+as twere a thing a little soild ith working 
+marke you your party in conuerse him you would sound 
+hauing euer seene in the prenominate crimes 
+the youth you breath of guilty be assurd 
+he closes with you in this consequence 
+good sir or so or friend or gentleman 
+according to the phrase and the addition 
+of man and country 
+
+reynol very good my lord 
+
+polon and then sir does he this 
+he does what was  about to say 
+ was about say somthing where did  leaue 
+reynol at closes in the consequence 
+at friend or so and gentleman 
+
+polon at closes in the consequence  marry 
+he closes with you thus  know the gentleman 
+ saw him yesterday or tother day 
+or then or then with such and such and as you say 
+there was he gaming there oretooke ins rouse 
+there falling out at tennis or perchance 
+ saw him enter such a house of saile 
+videlicet a brothell or so forth see you now 
+your bait of falshood takes this cape of truth 
+and thus doe we of wisedome and of reach 
+with windlesses and with assaies of bias 
+by indirections finde directions out 
+so by my former lecture and aduice 
+shall you my sonne you haue me haue you not 
+reynol my lord  haue 
+
+polon god buy you fare you well 
+
+reynol good my lord 
+
+polon obserue his inclination in your selfe 
+
+reynol  shall my lord 
+
+polon and let him plye his musicke 
+
+reynol well my lord 
+enter 
+
+enter ophelia 
+
+polon farewell 
+how now ophelia whats the matter 
+ophe alas my lord  haue beene so affrighted 
+
+polon with what in the name of heauen 
+ophe my lord as  was sowing in my chamber 
+lord hamlet with his doublet all vnbracd 
+no hat vpon his head his stockings fould 
+vngartred and downe giued to his anckle 
+pale as his shirt his knees knocking each other 
+and with a looke so pitious in purport 
+as if he had been loosed out of hell 
+to speake of horrors he comes before me 
+
+polon mad for thy loue 
+ophe my lord  doe not know but truly  do feare it 
+
+polon what said he 
+ophe he tooke me by the wrist and held me hard 
+then goes he to the length of all his arme 
+and with his other hand thus ore his brow 
+he fals to such perusall of my face 
+as he would draw it long staid he so 
+at last a little shaking of mine arme 
+and thrice his head thus wauing vp and downe 
+he raisd a sigh so pittious and profound 
+that it did seeme to shatter all his bulke 
+and end his being that done he lets me goe 
+and with his head ouer his shoulders turnd 
+he seemd to finde his way without his eyes 
+for out adores he went without their helpe 
+and to the last bended their light on me 
+
+polon goe with me  will goe seeke the king 
+this is the very extasie of loue 
+whose violent property foredoes it selfe 
+and leads the will to desperate vndertakings 
+as oft as any passion vnder heauen 
+that does afflict our natures  am sorrie 
+what haue you giuen him any hard words of late 
+ophe no my good lord but as you did command 
+ did repell his letters and denyde 
+his accesse to me 
+
+pol that hath made him mad 
+ am sorrie that with better speed and iudgement 
+ had not quoted him  feare he did but trifle 
+and meant to wracke thee but beshrew my iealousie 
+it seemes it is as proper to our age 
+to cast beyond our selues in our opinions 
+as it is common for the yonger sort 
+to lacke discretion come go we to the king 
+this must be knowne being kept close might moue 
+more greefe to hide then hate to vtter loue 
+
+exeunt 
+
+
+scena secunda 
+
+enter king queene rosincrane and guildensterne cum alijs 
+
+king welcome deere rosincrance and guildensterne 
+moreouer that we much did long to see you 
+the neede we haue to vse you did prouoke 
+our hastie sending something haue you heard 
+of hamlets transformation so  call it 
+since not th exterior nor the inward man 
+resembles that it was what it should bee 
+more then his fathers death that thus hath put him 
+so much from th vnderstanding of himselfe 
+ cannot deeme of  intreat you both 
+that being of so young dayes brought vp with him 
+and since so neighbourd to his youth and humour 
+that you vouchsafe your rest heere in our court 
+some little time so by your companies 
+to draw him on to pleasures and to gather 
+so much as from occasions you may gleane 
+that opend lies within our remedie 
+
+qu good gentlemen he hath much talkd of you 
+and sure  am two men there are not liuing 
+to whom he more adheres if it will please you 
+to shew vs so much gentrie and good will 
+as to expend your time with vs awhile 
+for the supply and profit of our hope 
+your visitation shall receiue such thankes 
+as fits a kings remembrance 
+
+rosin both your maiesties 
+might by the soueraigne power you haue of vs 
+put your dread pleasures more into command 
+then to entreatie 
+
+guil we both obey 
+and here giue vp our selues in the full bent 
+to lay our seruices freely at your feete 
+to be commanded 
+
+king thankes rosincrance and gentle guildensterne 
+
+qu thankes guildensterne and gentle rosincrance 
+and  beseech you instantly to visit 
+my too much changed sonne 
+go some of ye 
+and bring the gentlemen where hamlet is 
+
+guil heauens make our presence and our practises 
+pleasant and helpfull to him 
+enter 
+
+queene amen 
+enter polonius 
+
+pol th ambassadors from norwey my good lord 
+are ioyfully returnd 
+
+king thou still hast bin the father of good newes 
+
+pol haue  my lord assure you my good liege 
+ hold my dutie as  hold my soule 
+both to my god one to my gracious king 
+and  do thinke or else this braine of mine 
+hunts not the traile of policie so sure 
+as  haue vsd to do that  haue found 
+the very cause of hamlets lunacie 
+
+king oh speake of that that  do long to heare 
+
+pol giue first admittance to th ambassadors 
+my newes shall be the newes to that great feast 
+
+king thy selfe do grace to them and bring them in 
+he tels me my sweet queene that he hath found 
+the head and sourse of all your sonnes distemper 
+
+qu  doubt it is no other but the maine 
+his fathers death and our orehasty marriage 
+enter polonius voltumand and cornelius 
+
+king well we shall sift him welcome good frends 
+say voltumand what from our brother norwey 
+volt most faire returne of greetings and desires 
+vpon our first he sent out to suppresse 
+his nephewes leuies which to him appeard 
+to be a preparation gainst the poleak 
+but better lookd into he truly found 
+it was against your highnesse whereat greeued 
+that so his sicknesse age and impotence 
+was falsely borne in hand sends out arrests 
+on fortinbras which he in breefe obeyes 
+receiues rebuke from norwey and in fine 
+makes vow before his vnkle neuer more 
+to giue th assay of armes against your maiestie 
+whereon old norwey ouercome with ioy 
+giues him three thousand crownes in annuall fee 
+and his commission to imploy those soldiers 
+so leuied as before against the poleak 
+with an intreaty heerein further shewne 
+that it might please you to giue quiet passe 
+through your dominions for his enterprize 
+on such regards of safety and allowance 
+as therein are set downe 
+
+king it likes vs well 
+and at our more considerd time weel read 
+answer and thinke vpon this businesse 
+meane time we thanke you for your welltooke labour 
+go to your rest at night weel feast together 
+most welcome home 
+
+exit ambass 
+
+pol this businesse is very well ended 
+my liege and madam to expostulate 
+what maiestie should be what dutie is 
+why day is day night night and time is time 
+were nothing but to waste night day and time 
+therefore since breuitie is the soule of wit 
+and tediousnesse the limbes and outward flourishes 
+ will be breefe your noble sonne is mad 
+mad call  it for to define true madnesse 
+what ist but to be nothing else but mad 
+but let that go 
+
+qu more matter with lesse art 
+
+pol madam  sweare  vse no art at all 
+that he is mad tis true tis true tis pittie 
+and pittie it is true  foolish figure 
+but farewell it for  will vse no art 
+mad let vs grant him then and now remaines 
+that we finde out the cause of this effect 
+or rather say the cause of this defect 
+for this effect defectiue comes by cause 
+thus it remaines and the remainder thus perpend 
+ haue a daughter haue whilst she is mine 
+who in her dutie and obedience marke 
+hath giuen me this now gather and surmise 
+
+the letter 
+
+to the celestiall and my soules idoll the most beautifed ophelia 
+thats an ill phrase a vilde phrase beautified is a vilde 
+phrase but you shall heare these in her excellent white 
+bosome these 
+
+qu came this from hamlet to her 
+
+pol good madam stay awhile  will be faithfull 
+doubt thou the starres are fire 
+doubt that the sunne doth moue 
+doubt truth to be a lier 
+but neuer doubt  loue 
+ deere ophelia  am ill at these numbers  haue not art to 
+reckon my grones but that  loue thee best oh most best beleeue 
+it adieu 
+thine euermore most deere lady whilst this 
+machine is to him hamlet 
+this in obedience hath my daughter shewd me 
+and more aboue hath his soliciting 
+as they fell out by time by meanes and place 
+all giuen to mine eare 
+
+king but how hath she receiud his loue 
+pol what do you thinke of me 
+king as of a man faithfull and honourable 
+
+pol  wold faine proue so but what might you think 
+when  had seene this hot loue on the wing 
+as  perceiued it  must tell you that 
+before my daughter told me what might you 
+or my deere maiestie your queene heere think 
+if  had playd the deske or tablebooke 
+or giuen my heart a winking mute and dumbe 
+or lookd vpon this loue with idle sight 
+what might you thinke no  went round to worke 
+and my yong mistris thus  did bespeake 
+lord hamlet is a prince out of thy starre 
+this must not be and then  precepts gaue her 
+that she should locke her selfe from his resort 
+admit no messengers receiue no tokens 
+which done she tooke the fruites of my aduice 
+and he repulsed  short tale to make 
+fell into a sadnesse then into a fast 
+thence to a watch thence into a weaknesse 
+thence to a lightnesse and by this declension 
+into the madnesse whereon now he raues 
+and all we waile for 
+
+king do you thinke tis this 
+qu it may be very likely 
+
+pol hath there bene such a time ide fain know that 
+that  haue possitiuely said tis so 
+when it proud otherwise 
+king not that  know 
+
+pol take this from this if this be otherwise 
+if circumstances leade me  will finde 
+where truth is hid though it were hid indeede 
+within the center 
+
+king how may we try it further 
+pol you know sometimes 
+he walkes foure houres together heere 
+in the lobby 
+
+qu so he has indeed 
+
+pol at such a time ile loose my daughter to him 
+be you and  behinde an arras then 
+marke the encounter if he loue her not 
+and be not from his reason falne thereon 
+let me be no assistant for a state 
+and keepe a farme and carters 
+
+king we will try it 
+enter hamlet reading on a booke 
+
+qu but looke where sadly the poore wretch 
+comes reading 
+
+pol away  do beseech you both away 
+ile boord him presently 
+
+exit king  queen 
+
+oh giue me leaue how does my good lord hamlet 
+ham well godamercy 
+
+pol do you know me my lord 
+ham excellent excellent well yare a fishmonger 
+
+pol not  my lord 
+
+ham then  would you were so honest a man 
+
+pol honest my lord 
+ham  sir to be honest as this world goes is to bee 
+one man pickd out of two thousand 
+
+pol thats very true my lord 
+
+ham for if the sun breed magots in a dead dogge 
+being a good kissing carrion 
+haue you a daughter 
+pol  haue my lord 
+
+ham let her not walke ithsunne conception is a 
+blessing but not as your daughter may conceiue friend 
+looke toot 
+
+pol how say you by that still harping on my daughter 
+yet he knew me not at first he said  was a fishmonger 
+he is farre gone farre gone and truly in my youth 
+ suffred much extreamity for loue very neere this ile 
+speake to him againe what do you read my lord 
+ham words words words 
+
+pol what is the matter my lord 
+ham betweene who 
+pol  meane the matter you meane my lord 
+
+ham slanders sir for the satyricall slaue saies here 
+that old men haue gray beards that their faces are wrinkled 
+their eyes purging thicke amber or plumtree 
+gumme and that they haue a plentifull locke of wit 
+together with weake hammes all which sir though  
+most powerfully and potently beleeue yet  holde it 
+not honestie to haue it thus set downe for you your 
+selfe sir should be old as  am if like a crab you could 
+go backward 
+
+pol though this be madnesse 
+yet there is method int will you walke 
+out of the ayre my lord 
+ham into my graue 
+pol indeed that is out oth ayre 
+how pregnant sometimes his replies are 
+ happinesse 
+that often madnesse hits on 
+which reason and sanitie could not 
+so prosperously be deliuerd of 
+ will leaue him 
+and sodainely contriue the meanes of meeting 
+betweene him and my daughter 
+my honourable lord  will most humbly 
+take my leaue of you 
+
+ham you cannot sir take from me any thing that  
+will more willingly part withall except my life my 
+life 
+
+polon fare you well my lord 
+
+ham these tedious old fooles 
+
+polon you goe to seeke my lord hamlet there 
+hee is 
+enter rosincran and guildensterne 
+
+rosin god saue you sir 
+
+guild mine honourd lord 
+rosin my most deare lord 
+ham my excellent good friends how dost thou 
+guildensterne oh rosincrane good lads how doe ye 
+both 
+rosin as the indifferent children of the earth 
+
+guild happy in that we are not ouerhappy on fortunes 
+cap we are not the very button 
+
+ham nor the soales of her shoo 
+rosin neither my lord 
+
+ham then you liue about her waste or in the middle 
+of her fauour 
+guil faith her priuates we 
+
+ham in the secret parts of fortune oh most true 
+she is a strumpet whats the newes 
+rosin none my lord but that the worlds growne 
+honest 
+
+ham then is doomesday neere but your newes is 
+not true let me question more in particular what haue 
+you my good friends deserued at the hands of fortune 
+that she sends you to prison hither 
+guil prison my lord 
+ham denmarks a prison 
+
+rosin then is the world one 
+
+ham  goodly one in which there are many confines 
+wards and dungeons denmarke being one oth 
+worst 
+
+rosin we thinke not so my lord 
+
+ham why then tis none to you for there is nothing 
+either good or bad but thinking makes it so to me it is 
+a prison 
+
+rosin why then your ambition makes it one tis 
+too narrow for your minde 
+
+ham  god  could be bounded in a nutshell and 
+count my selfe a king of infinite space were it not that 
+ haue bad dreames 
+
+guil which dreames indeed are ambition for the 
+very substance of the ambitious is meerely the shadow 
+of a dreame 
+
+ham  dreame it selfe is but a shadow 
+
+rosin truely and  hold ambition of so ayry and 
+light a quality that it is but a shadowes shadow 
+
+ham then are our beggers bodies and our monarchs 
+and outstretcht heroes the beggers shadowes 
+shall wee to th court for by my fey  cannot reason 
+both weel wait vpon you 
+
+ham no such matter  will not sort you with the 
+rest of my seruants for to speake to you like an honest 
+man  am most dreadfully attended but in the beaten 
+way of friendship what make you at elsonower 
+rosin to visit you my lord no other occasion 
+
+ham begger that  am  am euen poore in thankes 
+but  thanke you and sure deare friends my thanks 
+are too deare a halfepeny were you not sent for is it 
+your owne inclining is it a free visitation come 
+deale iustly with me come come nay speake 
+
+guil what should we say my lord 
+ham why any thing but to the purpose you were 
+sent for and there is a kinde confession in your lookes 
+which your modesties haue not craft enough to color 
+ know the good king  queene haue sent for you 
+
+rosin to what end my lord 
+ham that you must teach me but let mee coniure 
+you by the rights of our fellowship by the consonancy of 
+our youth by the obligation of our euerpreserued loue 
+and by what more deare a better proposer could charge 
+you withall be euen and direct with me whether you 
+were sent for or no 
+
+rosin what say you 
+ham nay then  haue an eye of you if you loue me 
+hold not off 
+
+guil my lord we were sent for 
+
+ham  will tell you why so shall my anticipation 
+preuent your discouery of your secricie to the king and 
+queene moult no feather  haue of late but wherefore 
+ know not lost all my mirth forgone all custome of exercise 
+and indeed it goes so heauenly with my disposition 
+that this goodly frame the earth seemes to me a sterrill 
+promontory this most excellent canopy the ayre 
+look you this braue orehanging this maiesticall roofe 
+fretted with golden fire why it appeares no other thing 
+to mee then a foule and pestilent congregation of vapours 
+what a piece of worke is a man how noble in 
+reason how infinite in faculty in forme and mouing 
+how expresse and admirable in action how like an angel 
+in apprehension how like a god the beauty of the 
+world the parragon of animals and yet to me what is 
+this quintessence of dust man delights not me no 
+nor woman neither though by your smiling you seeme 
+to say so 
+
+rosin my lord there was no such stuffe in my 
+thoughts 
+
+ham why did you laugh when  said man delights 
+not me 
+rosin to thinke my lord if you delight not in man 
+what lenton entertainment the players shall receiue 
+from you wee coated them on the way and hither are 
+they comming to offer you seruice 
+
+ham he that playes the king shall be welcome his 
+maiesty shall haue tribute of mee the aduenturous 
+knight shal vse his foyle and target the louer shall 
+not sigh gratis the humorous man shall end his part in 
+peace the clowne shall make those laugh whose lungs 
+are tickled ath sere and the lady shall say her minde 
+freely or the blanke verse shall halt fort what players 
+are they 
+rosin euen those you were wont to take delight in 
+the tragedians of the city 
+
+ham how chances it they trauaile their residence 
+both in reputation and profit was better both 
+wayes 
+
+rosin  thinke their inhibition comes by the meanes 
+of the late innouation 
+ham doe they hold the same estimation they did 
+when  was in the city are they so followd 
+rosin no indeed they are not 
+
+ham how comes it doe they grow rusty 
+rosin nay their indeauour keepes in the wonted 
+pace but there is sir an ayrie of children little 
+yases that crye out on the top of question and 
+are most tyrannically clapt fort these are now the 
+fashion and so beratled the common stages so they 
+call them that many wearing rapiers are affraide of 
+goosequils and dare scarse come thither 
+
+ham what are they children who maintains em 
+how are they escorted will they pursue the quality no 
+longer then they can sing will they not say afterwards 
+if they should grow themselues to common players as 
+it is most like if their meanes are not better their writers 
+do them wrong to make them exclaim against their 
+owne succession 
+
+rosin faith there has bene much to do on both sides 
+and the nation holds it no sinne to tarre them to controuersie 
+there was for a while no mony bid for argument 
+vnlesse the poet and the player went to cuffes in 
+the question 
+
+ham ist possible 
+guild oh there has beene much throwing about of 
+braines 
+
+ham do the boyes carry it away 
+rosin  that they do my lord hercules  his load too 
+
+ham it is not strange for mine vnckle is king of 
+denmarke and those that would make mowes at him 
+while my father liued giue twenty forty an hundred 
+ducates a peece for his picture in little there is something 
+in this more then naturall if philosophie could 
+finde it out 
+
+flourish for the players 
+
+guil there are the players 
+
+ham gentlemen you are welcom to elsonower your 
+hands come the appurtenance of welcome is fashion 
+and ceremony let me comply with you in the garbe 
+lest my extent to the players which  tell you must shew 
+fairely outward should more appeare like entertainment 
+then yours you are welcome but my vnckle father 
+and aunt mother are deceiud 
+
+guil in what my deere lord 
+ham  am but mad north northwest when the 
+winde is southerly  know a hawke from a handsaw 
+enter polonius 
+
+pol well be with you gentlemen 
+
+ham hearke you guildensterne and you too at each 
+eare a hearer that great baby you see there is not yet 
+out of his swathing clouts 
+
+rosin happily hes the second time come to them for 
+they say an old man is twice a childe 
+
+ham  will prophesie hee comes to tell me of the 
+players mark it you say right sir for a monday morning 
+twas so indeed 
+
+pol my lord  haue newes to tell you 
+
+ham my lord  haue newes to tell you 
+when rossius an actor in rome 
+pol the actors are come hither my lord 
+
+ham buzze buzze 
+
+pol vpon mine honor 
+
+ham then can each actor on his asse 
+polon the best actors in the world either for tragedie 
+comedie historie pastorall 
+pastoricallcomicallhistoricallpastorall 
+tragicallhistoricall tragicallcomicallhistoricallpastorall 
+scene indiuidible or poem 
+vnlimited seneca cannot be too heauy nor plautus 
+too light for the law of writ and the liberty these are 
+the onely men 
+
+ham  iephta iudge of israel what a treasure hadst 
+thou 
+pol what a treasure had he my lord 
+ham why one faire daughter and no more 
+the which he loued passing well 
+
+pol still on my daughter 
+
+ham am  not ith right old iephta 
+polon if you call me iephta my lord  haue a daughter 
+that  loue passing well 
+
+ham nay that followes not 
+
+polon what followes then my lord 
+ha why as by lot god wot and then you know it 
+came to passe as most like it was the first rowe of the 
+pons chanson will shew you more for looke where my 
+abridgements come 
+enter foure or fiue players 
+
+yare welcome masters welcome all  am glad to see 
+thee well welcome good friends oh my olde friend 
+thy face is valiant since  saw thee last comst thou to 
+beard me in denmarke what my yong lady and mistris 
+byrlady your ladiship is neerer heauen then when 
+ saw you last by the altitude of a choppine pray god 
+your voice like a peece of vncurrant gold be not crackd 
+within the ring masters you are all welcome weel ene 
+tot like french faulconers flie at any thing we see weel 
+haue a speech straight come giue vs a tast of your quality 
+come a passionate speech 
+
+ what speech my lord 
+ham  heard thee speak me a speech once but it was 
+neuer acted or if it was not aboue once for the play  
+remember pleasd not the million twas cauiarie to the 
+generall but it was as  receiud it and others whose 
+iudgement in such matters cried in the top of mine an 
+excellent play well digested in the scoenes set downe 
+with as much modestie as cunning  remember one said 
+there was no sallets in the lines to make the matter sauory 
+nor no matter in the phrase that might indite the 
+author of affectation but cald it an honest method one 
+cheefe speech in it  cheefely loud twas aeneas tale 
+to dido and thereabout of it especially where he speaks 
+of priams slaughter if it liue in your memory begin at 
+this line let me see let me see the rugged pyrrhus like 
+thhyrcanian beast it is not so it begins with pyrrhus 
+the rugged pyrrhus he whose sable armes 
+blacke as his purpose did the night resemble 
+when he lay couched in the ominous horse 
+hath now this dread and blacke complexion smeard 
+with heraldry more dismall head to foote 
+now is he to take geulles horridly trickd 
+with blood of fathers mothers daughters sonnes 
+bakd and impasted with the parching streets 
+that lend a tyrannous and damned light 
+to their vilde murthers roasted in wrath and fire 
+and thus oresized with coagulate gore 
+with eyes like carbuncles the hellish pyrrhus 
+olde grandsire priam seekes 
+
+pol fore god my lord well spoken with good accent 
+and good discretion 
+
+ anon he findes him 
+striking too short at greekes his anticke sword 
+rebellious to his arme lyes where it falles 
+repugnant to command vnequall match 
+pyrrhus at priam driues in rage strikes wide 
+but with the whiffe and winde of his fell sword 
+th vnnerued father fals then senselesse illium 
+seeming to feele his blow with flaming top 
+stoopes to his bace and with a hideous crash 
+takes prisoner pyrrhus eare for loe his sword 
+which was declining on the milkie head 
+of reuerend priam seemd ith ayre to sticke 
+so as a painted tyrant pyrrhus stood 
+and like a newtrall to his will and matter did nothing 
+but as we often see against some storme 
+ silence in the heauens the racke stand still 
+the bold windes speechlesse and the orbe below 
+as hush as death anon the dreadfull thunder 
+doth rend the region so after pyrrhus pause 
+ rowsed vengeance sets him new aworke 
+and neuer did the cyclops hammers fall 
+on mars his armours forgd for proofe eterne 
+with lesse remorse then pyrrhus bleeding sword 
+now falles on priam 
+out out thou strumpetfortune all you gods 
+in generall synod take away her power 
+breake all the spokes and fallies from her wheele 
+and boule the round naue downe the hill of heauen 
+as low as to the fiends 
+
+pol this is too long 
+
+ham it shall toth barbars with your beard prythee 
+say on hes for a iigge or a tale of baudry or hee 
+sleepes say on come to hecuba 
+
+ but who  who had seen the inobled queen 
+
+ham the inobled queene 
+pol thats good inobled queene is good 
+
+ run barefoot vp and downe 
+threatning the flame 
+with bisson rheume  clout about that head 
+where late the diadem stood and for a robe 
+about her lanke and all oreteamed loines 
+ blanket in th alarum of feare caught vp 
+who this had seene with tongue in venome steepd 
+gainst fortunes state would treason haue pronouncd 
+but if the gods themselues did see her then 
+when she saw pyrrhus make malicious sport 
+in mincing with his sword her husbands limbes 
+the instant burst of clamour that she made 
+vnlesse things mortall moue them not at all 
+would haue made milche the burning eyes of heauen 
+and passion in the gods 
+
+pol looke where he has not turnd his colour and 
+has teares ins eyes pray you no more 
+
+ham tis well ile haue thee speake out the rest 
+soone good my lord will you see the players wel bestowd 
+do ye heare let them be well vsd for they are 
+the abstracts and breefe chronicles of the time after 
+your death you were better haue a bad epitaph then 
+their ill report while you liued 
+
+pol my lord  will vse them according to their desart 
+
+ham gods bodykins man better vse euerie man 
+after his desart and who should scape whipping vse 
+them after your own honor and dignity the lesse they 
+deserue the more merit is in your bountie take them 
+in 
+
+pol come sirs 
+
+exit polon 
+
+ham follow him friends weel heare a play to morrow 
+dost thou heare me old friend can you play the 
+murther of gonzago 
+play  my lord 
+
+ham weel hat to morrow night you could for a 
+need study a speech of some dosen or sixteene lines which 
+ would set downe and insert int could ye not 
+play  my lord 
+
+ham very well follow that lord and looke you 
+mock him not my good friends ile leaue you til night 
+you are welcome to elsonower 
+rosin good my lord 
+
+exeunt 
+
+manet hamlet 
+
+ham  so god buyye now  am alone 
+oh what a rogue and pesant slaue am  
+is it not monstrous that this player heere 
+but in a fixion in a dreame of passion 
+could force his soule so to his whole conceit 
+that from her working all his visage warmd 
+teares in his eyes distraction ins aspect 
+ broken voyce and his whole function suiting 
+with formes to his conceit and all for nothing 
+for hecuba 
+whats hecuba to him or he to hecuba 
+that he should weepe for her what would he doe 
+had he the motiue and the cue for passion 
+that  haue he would drowne the stage with teares 
+and cleaue the generall eare with horrid speech 
+make mad the guilty and apale the free 
+confound the ignorant and amaze indeed 
+the very faculty of eyes and eares yet  
+ dull and muddymetled rascall peake 
+like iohn adreames vnpregnant of my cause 
+and can say nothing no not for a king 
+vpon whose property and most deere life 
+ damnd defeate was made am  a coward 
+who calles me villaine breakes my pate acrosse 
+pluckes off my beard and blowes it in my face 
+tweakes me byth nose giues me the lye ith throate 
+as deepe as to the lungs who does me this 
+ha why  should take it for it cannot be 
+but  am pigeonliuerd and lacke gall 
+to make oppression bitter or ere this 
+ should haue fatted all the region kites 
+with this slaues offall bloudy a bawdy villaine 
+remorselesse treacherous letcherous kindles villaine 
+oh vengeance 
+who what an asse am   sure this is most braue 
+that  the sonne of the deere murthered 
+prompted to my reuenge by heauen and hell 
+must like a whore vnpacke my heart with words 
+and fall a cursing like a very drab 
+ scullion fye vpont foh about my braine 
+ haue heard that guilty creatures sitting at a play 
+haue by the very cunning of the scoene 
+bene strooke so to the soule that presently 
+they haue proclaimd their malefactions 
+for murther though it haue no tongue will speake 
+with most myraculous organ ile haue these players 
+play something like the murder of my father 
+before mine vnkle ile obserue his lookes 
+ile rent him to the quicke if he but blench 
+ know my course the spirit that  haue seene 
+may be the diuell and the diuel hath power 
+ assume a pleasing shape yea and perhaps 
+out of my weaknesse and my melancholly 
+as he is very potent with such spirits 
+abuses me to damne me ile haue grounds 
+more relatiue then this the plays the thing 
+wherein ile catch the conscience of the king 
+
+exit 
+
+enter king queene polonius ophelia rosincrance 
+guildenstern and 
+lords 
+
+king and can you by no drift of circumstance 
+get from him why he puts on this confusion 
+grating so harshly all his dayes of quiet 
+with turbulent and dangerous lunacy 
+
+rosin he does confesse he feeles himselfe distracted 
+but from what cause he will by no meanes speake 
+
+guil nor do we finde him forward to be sounded 
+but with a crafty madnesse keepes aloofe 
+when we would bring him on to some confession 
+of his true state 
+
+qu did he receiue you well 
+rosin most like a gentleman 
+
+guild but with much forcing of his disposition 
+
+rosin niggard of question but of our demands 
+most free in his reply 
+
+qu did you assay him to any pastime 
+rosin madam it so fell out that certaine players 
+we orewrought on the way of these we told him 
+and there did seeme in him a kinde of ioy 
+to heare of it they are about the court 
+and as  thinke they haue already order 
+this night to play before him 
+
+pol tis most true 
+and he beseechd me to intreate your maiesties 
+to heare and see the matter 
+
+king with all my heart and it doth much content me 
+to heare him so inclind good gentlemen 
+giue him a further edge and driue his purpose on 
+to these delights 
+
+rosin we shall my lord 
+
+exeunt 
+
+king sweet gertrude leaue vs too 
+for we haue closely sent for hamlet hither 
+that he as twere by accident may there 
+affront ophelia her father and my selfe lawful espials 
+will so bestow our selues that seeing vnseene 
+we may of their encounter frankely iudge 
+and gather by him as he is behaued 
+ift be th affliction of his loue or no 
+that thus he suffers for 
+
+qu  shall obey you 
+and for your part ophelia  do wish 
+that your good beauties be the happy cause 
+of hamlets wildenesse so shall  hope your vertues 
+will bring him to his wonted way againe 
+to both your honors 
+
+ophe madam  wish it may 
+
+pol ophelia walke you heere gracious so please ye 
+we will bestow our selues reade on this booke 
+that shew of such an exercise may colour 
+your lonelinesse we are oft too blame in this 
+tis too much proud that with deuotions visage 
+and pious action we do surge ore 
+the diuell himselfe 
+
+king oh tis true 
+how smart a lash that speech doth giue my conscience 
+the harlots cheeke beautied with plaistring art 
+is not more vgly to the thing that helpes it 
+then is my deede to my most painted word 
+oh heauie burthen 
+pol  heare him comming lets withdraw my lord 
+
+exeunt 
+
+enter hamlet 
+
+ham to be or not to be that is the question 
+whether tis nobler in the minde to suffer 
+the slings and arrowes of outragious fortune 
+or to take armes against a sea of troubles 
+and by opposing end them to dye to sleepe 
+no more and by a sleepe to say we end 
+the heartake and the thousand naturall shockes 
+that flesh is heyre too tis a consummation 
+deuoutly to be wishd to dye to sleepe 
+to sleepe perchance to dreame  theres the rub 
+for in that sleepe of death what dreames may come 
+when we haue shuffeld off this mortall coile 
+must giue vs pawse theres the respect 
+that makes calamity of so long life 
+for who would beare the whips and scornes of time 
+the oppressors wrong the poore mans contumely 
+the pangs of disprizd loue the lawes delay 
+the insolence of office and the spurnes 
+that patient merit of the vnworthy takes 
+when he himselfe might his quietus make 
+with a bare bodkin who would these fardles beare 
+to grunt and sweat vnder a weary life 
+but that the dread of something after death 
+the vndiscouered countrey from whose borne 
+no traueller returnes puzels the will 
+and makes vs rather beare those illes we haue 
+then flye to others that we know not of 
+thus conscience does make cowards of vs all 
+and thus the natiue hew of resolution 
+is sicklied ore with the pale cast of thought 
+and enterprizes of great pith and moment 
+with this regard their currants turne away 
+and loose the name of action soft you now 
+the faire ophelia nimph in thy orizons 
+be all my sinnes remembred 
+
+ophe good my lord 
+how does your honor for this many a day 
+ham  humbly thanke you well well well 
+
+ophe my lord  haue remembrances of yours 
+that  haue longed long to redeliuer 
+ pray you now receiue them 
+
+ham no no  neuer gaue you ought 
+
+ophe my honord lord  know right well you did 
+and with them words of so sweet breath composd 
+as made the things more rich then perfume left 
+take these againe for to the noble minde 
+rich gifts wax poore when giuers proue vnkinde 
+there my lord 
+
+ham ha ha are you honest 
+ophe my lord 
+
+ham are you faire 
+ophe what meanes your lordship 
+ham that if you be honest and faire your honesty 
+should admit no discourse to your beautie 
+
+ophe could beautie my lord haue better comerce 
+then your honestie 
+ham  trulie for the power of beautie will sooner 
+transforme honestie from what is to a bawd then the 
+force of honestie can translate beautie into his likenesse 
+this was sometime a paradox but now the time giues it 
+proofe  did loue you once 
+
+ophe indeed my lord you made me beleeue so 
+
+ham you should not haue beleeued me for vertue 
+cannot so innocculate our old stocke but we shall rellish 
+of it  loued you not 
+
+ophe  was the more deceiued 
+
+ham get thee to a nunnerie why wouldst thou 
+be a breeder of sinners  am my selfe indifferent honest 
+but yet  could accuse me of such things that it were better 
+my mother had not borne me  am very prowd reuengefull 
+ambitious with more offences at my becke 
+then  haue thoughts to put them in imagination to giue 
+them shape or time to acte them in what should such 
+fellowes as  do crawling betweene heauen and earth 
+we are arrant knaues all beleeue none of vs goe thy 
+wayes to a nunnery wheres your father 
+ophe at home my lord 
+
+ham let the doores be shut vpon him that he may 
+play the foole no way but ins owne house farewell 
+
+ophe  helpe him you sweet heauens 
+
+ham if thou doest marry ile giue thee this plague 
+for thy dowrie be thou as chast as ice as pure as snow 
+thou shalt not escape calumny get thee to a nunnery 
+go farewell or if thou wilt needs marry marry a fool 
+for wise men know well enough what monsters you 
+make of them to a nunnery go and quickly too farwell 
+
+ophe  heauenly powers restore him 
+
+ham  haue heard of your pratlings too wel enough 
+god has giuen you one pace and you make your selfe another 
+you gidge you amble and you lispe and nickname 
+gods creatures and make your wantonnesse your ignorance 
+go too ile no more ont it hath made me mad 
+ say we will haue no more marriages those that are 
+married already all but one shall liue the rest shall keep 
+as they are to a nunnery go 
+
+exit hamlet 
+
+ophe  what a noble minde is heere orethrowne 
+the courtiers soldiers schollers eye tongue sword 
+th expectansie and rose of the faire state 
+the glasse of fashion and the mould of forme 
+th obserud of all obseruers quite quite downe 
+haue  of ladies most deiect and wretched 
+that suckd the honie of his musicke vowes 
+now see that noble and most soueraigne reason 
+like sweet bels iangled out of tune and harsh 
+that vnmatchd forme and feature of blowne youth 
+blasted with extasie oh woe is me 
+thaue seene what  haue seene see what  see 
+enter king and polonius 
+
+king loue his affections do not that way tend 
+nor what he spake though it lackd forme a little 
+was not like madnesse theres something in his soule 
+ore which his melancholly sits on brood 
+and  do doubt the hatch and the disclose 
+will be some danger which to preuent 
+ haue in quicke determination 
+thus set it downe he shall with speed to england 
+for the demand of our neglected tribute 
+haply the seas and countries different 
+with variable obiects shall expell 
+this something setled matter in his heart 
+whereon his braines still beating puts him thus 
+from fashion of himselfe what thinke you ont 
+pol it shall do well but yet do  beleeue 
+the origin and commencement of this greefe 
+sprung from neglected loue how now ophelia 
+you neede not tell vs what lord hamlet saide 
+we heard it all my lord do as you please 
+but if you hold it fit after the play 
+let his queene mother all alone intreat him 
+to shew his greefes let her be round with him 
+and ile be placd so please you in the eare 
+of all their conference if she finde him not 
+to england send him or confine him where 
+your wisedome best shall thinke 
+
+king it shall be so 
+madnesse in great ones must not vnwatchd go 
+
+exeunt 
+
+enter hamlet and two or three of the players 
+
+ham speake the speech  pray you as  pronouncd 
+it to you trippingly on the tongue but if you mouth it 
+as many of your players do  had as liue the towncryer 
+had spoke my lines nor do not saw the ayre too much 
+your hand thus but vse all gently for in the verie torrent 
+tempest and as  say the whirlewinde of 
+passion you must acquire and beget a temperance that 
+may giue it smoothnesse  it offends mee to the soule 
+to see a robustious perywigpated fellow teare a passion 
+to tatters to verie ragges to split the eares of the 
+groundlings who for the most part are capeable of 
+nothing but inexplicable dumbe shewes  noise  could 
+haue such a fellow whipt for oredoing termagant it 
+outherods herod pray you auoid it 
+
+player  warrant your honor 
+
+ham be not too tame neyther but let your owne 
+discretion be your tutor sute the action to the word 
+the word to the action with this speciall obseruance 
+that you orestop not the modestie of nature for any 
+thing so ouerdone is from the purpose of playing whose 
+end both at the first and now was and is to hold as twer 
+the mirrour vp to nature to shew vertue her owne 
+feature scorne her owne image and the verie age and 
+bodie of the time his forme and pressure now this 
+ouerdone or come tardie off though it make the vnskilfull 
+laugh cannot but make the iudicious greeue the 
+censure of the which one must in your allowance oreway 
+a whole theater of others oh there bee players 
+that  haue seene play and heard others praise and that 
+highly not to speake it prophanely that neyther hauing 
+the accent of christians nor the gate of christian pagan 
+or norman haue so strutted and bellowed that  haue 
+thought some of natures iouerneymen had made men 
+and not made them well they imitated humanity so abhominably 
+
+play  hope we haue reformd that indifferently with 
+vs sir 
+
+ham  reforme it altogether and let those that 
+play your clownes speake no more then is set downe for 
+them for there be of them that will themselues laugh 
+to set on some quantitie of barren spectators to laugh 
+too though in the meane time some necessary question 
+of the play be then to be considered thats villanous  
+shewes a most pittifull ambition in the foole that vses 
+it go make you readie 
+
+exit players 
+
+enter polonius rosincrance and guildensterne 
+
+how now my lord 
+will the king heare this peece of worke 
+pol and the queene too and that presently 
+
+ham bid the players make hast 
+
+exit polonius 
+
+will you two helpe to hasten them 
+both we will my lord 
+
+exeunt 
+
+enter horatio 
+
+ham what hoa horatio 
+hora heere sweet lord at your seruice 
+
+ham horatio thou art eene as iust a man 
+as ere my conuersation coapd withall 
+
+hora  my deere lord 
+
+ham nay do not thinke  flatter 
+for what aduancement may  hope from thee 
+that no reuennew hast but thy good spirits 
+to feed  cloath thee why shold the poor be flatterd 
+no let the candied tongue like absurd pompe 
+and crooke the pregnant hindges of the knee 
+where thrift may follow faining dost thou heare 
+since my deere soule was mistris of my choyse 
+and could of men distinguish her election 
+hath seald thee for her selfe for thou hast bene 
+as one in suffering all that suffers nothing 
+ man that fortunes buffets and rewards 
+hath tane with equall thankes and blest are those 
+whose blood and iudgement are so well comingled 
+that they are not a pipe for fortunes finger 
+to sound what stop she please giue me that man 
+that is not passions slaue and  will weare him 
+in my hearts core  in my heart of heart 
+as  do thee something too much of this 
+there is a play to night to before the king 
+one scoene of it comes neere the circumstance 
+which  haue told thee of my fathers death 
+ prythee when thou seest that acte afoot 
+euen with the verie comment of my soule 
+obserue mine vnkle if his occulted guilt 
+do not it selfe vnkennell in one speech 
+it is a damned ghost that we haue seene 
+and my imaginations are as foule 
+as vulcans stythe giue him needfull note 
+for  mine eyes will riuet to his face 
+and after we will both our iudgements ioyne 
+to censure of his seeming 
+
+hora well my lord 
+if he steale ought the whilst this play is playing 
+and scape detecting  will pay the theft 
+enter king queene polonius ophelia rosincrance 
+guildensterne and 
+other lords attendant with his guard carrying torches danish 
+march sound 
+a flourish 
+
+ham they are comming to the play  must be idle 
+get you a place 
+
+king how fares our cosin hamlet 
+ham excellent ifaith of the camelions dish  eate 
+the ayre promisecrammd you cannot feed capons so 
+
+king  haue nothing with this answer hamlet these 
+words are not mine 
+
+ham no nor mine now my lord you plaid once 
+ith vniuersity you say 
+polon that  did my lord and was accounted a good 
+actor 
+
+ham and what did you enact 
+pol  did enact iulius caesar  was killd ith capitol 
+brutus killd me 
+
+ham it was a bruite part of him to kill so capitall a 
+calfe there be the players ready 
+rosin  my lord they stay vpon your patience 
+
+qu come hither my good hamlet sit by me 
+
+ha no good mother heres mettle more attractiue 
+
+pol oh ho do you marke that 
+ham ladie shall  lye in your lap 
+ophe no my lord 
+
+ham  meane my head vpon your lap 
+ophe  my lord 
+
+ham do you thinke  meant country matters 
+ophe  thinke nothing my lord 
+
+ham thats a faire thought to ly betweene maids legs 
+ophe what is my lord 
+ham nothing 
+
+ophe you are merrie my lord 
+ham who  
+ophe  my lord 
+
+ham oh god your onely iiggemaker what should 
+a man do but be merrie for looke you how cheerefully 
+my mother lookes and my father dyed withins two 
+houres 
+
+ophe nay tis twice two moneths my lord 
+
+ham so long nay then let the diuel weare blacke 
+for ile haue a suite of sables oh heauens dye two moneths 
+ago and not forgotten yet then theres hope a 
+great mans memorie may outliue his life halfe a yeare 
+but byrlady he must builde churches then or else shall 
+he suffer not thinking on with the hobyhorsse whose 
+epitaph is for o for o the hobyhorse is forgot 
+
+hoboyes play the dumbe shew enters 
+
+enter a king and queene very louingly the queene embracing 
+him she 
+kneeles and makes shew of protestation vnto him he takes her 
+vp and 
+declines his head vpon her neck layes him downe vpon a banke 
+of flowers 
+she seeing him asleepe leaues him anon comes in a fellow 
+takes off his 
+crowne kisses it and powres poyson in the kings eares and 
+exits the 
+queene returnes findes the king dead and makes passionate 
+action the 
+poysoner with some two or three mutes comes in againe seeming 
+to lament 
+with her the dead body is carried away the poysoner wooes the 
+queene with 
+gifts she seemes loath and vnwilling awhile but in the end 
+accepts his 
+loue 
+
+exeunt 
+
+ophe what meanes this my lord 
+ham marry this is miching malicho that meanes 
+mischeefe 
+
+ophe belike this shew imports the argument of the 
+play 
+ham we shall know by these fellowes the players 
+cannot keepe counsell theyl tell all 
+
+ophe will they tell vs what this shew meant 
+ham  or any shew that youl shew him bee not 
+you ashamd to shew heel not shame to tell you what it 
+meanes 
+
+ophe you are naught you are naught ile marke the 
+play 
+enter prologue 
+
+for vs and for our tragedie 
+heere stooping to your clemencie 
+we begge your hearing patientlie 
+
+ham is this a prologue or the poesie of a ring 
+ophe tis briefe my lord 
+
+ham as womans loue 
+enter king and his queene 
+
+king full thirtie times hath phoebus cart gon round 
+neptunes salt wash and tellus orbed ground 
+and thirtie dozen moones with borrowed sheene 
+about the world haue times twelue thirties beene 
+since loue our hearts and hymen did our hands 
+vnite comutuall in most sacred bands 
+
+bap so many iournies may the sunne and moone 
+make vs againe count ore ere loue be done 
+but woe is me you are so sicke of late 
+so farre from cheere and from your former state 
+that  distrust you yet though  distrust 
+discomfort you my lord it nothing must 
+for womens feare and loue holds quantitie 
+in neither ought or in extremity 
+now what my loue is proofe hath made you know 
+and as my loue is sizd my feare is so 
+
+king faith  must leaue thee loue and shortly too 
+my operant powers my functions leaue to do 
+and thou shalt liue in this faire world behinde 
+honourd beloud and haply one as kinde 
+for husband shalt thou 
+bap oh confound the rest 
+such loue must needs be treason in my brest 
+in second husband let me be accurst 
+none wed the second but who killd the first 
+
+ham wormwood wormwood 
+
+bapt the instances that second marriage moue 
+are base respects of thrift but none of loue 
+ second time  kill my husband dead 
+when second husband kisses me in bed 
+
+king  do beleeue you think what now you speak 
+but what we do determine oft we breake 
+purpose is but the slaue to memorie 
+of violent birth but poore validitie 
+which now like fruite vnripe stickes on the tree 
+but fall vnshaken when they mellow bee 
+most necessary tis that we forget 
+to pay our selues what to our selues is debt 
+what to our selues in passion we propose 
+the passion ending doth the purpose lose 
+the violence of other greefe or ioy 
+their owne ennactors with themselues destroy 
+where ioy most reuels greefe doth most lament 
+greefe ioyes ioy greeues on slender accident 
+this world is not for aye nor tis not strange 
+that euen our loues should with our fortunes change 
+for tis a question left vs yet to proue 
+whether loue lead fortune or else fortune loue 
+the great man downe you marke his fauourites flies 
+the poore aduancd makes friends of enemies 
+and hitherto doth loue on fortune tend 
+for who not needs shall neuer lacke a frend 
+and who in want a hollow friend doth try 
+directly seasons him his enemie 
+but orderly to end where  begun 
+our willes and fates do so contrary run 
+that our deuices still are ouerthrowne 
+our thoughts are ours their ends none of our owne 
+so thinke thou wilt no second husband wed 
+but die thy thoughts when thy first lord is dead 
+
+bap nor earth to giue me food nor heauen light 
+sport and repose locke from me day and night 
+each opposite that blankes the face of ioy 
+meet what  would haue well and it destroy 
+both heere and hence pursue me lasting strife 
+if once a widdow euer  be wife 
+
+ham if she should breake it now 
+
+king tis deepely sworne 
+sweet leaue me heere a while 
+my spirits grow dull and faine  would beguile 
+the tedious day with sleepe 
+
+qu sleepe rocke thy braine 
+
+sleepes 
+
+and neuer come mischance betweene vs twaine 
+
+exit 
+
+ham madam how like you this play 
+qu the lady protests to much me thinkes 
+
+ham oh but sheel keepe her word 
+
+king haue you heard the argument is there no offence 
+int 
+ham no no they do but iest poyson in iest no offence 
+ith world 
+
+king what do you call the play 
+ham the mousetrap marry how tropically 
+this play is the image of a murder done in vienna gonzago 
+is the dukes name his wife baptista you shall see 
+anon tis a knauish peece of worke but what othat 
+your maiestie and wee that haue free soules it touches 
+vs not let the galld iade winch our withers are vnrung 
+enter lucianus 
+
+this is one lucianus nephew to the king 
+
+ophe you are a good chorus my lord 
+
+ham  could interpret betweene you and your loue 
+if  could see the puppets dallying 
+
+ophe you are keene my lord you are keene 
+
+ham it would cost you a groaning to take off my 
+edge 
+
+ophe still better and worse 
+
+ham so you mistake husbands 
+begin murderer pox leaue thy damnable faces and 
+begin come the croaking rauen doth bellow for reuenge 
+
+lucian thoughts blacke hands apt 
+drugges fit and time agreeing 
+confederate season else no creature seeing 
+thou mixture ranke of midnight weeds collected 
+with hecats ban thrice blasted thrice infected 
+thy naturall magicke and dire propertie 
+on wholsome life vsurpe immediately 
+
+powres the poyson in his eares 
+
+ham he poysons him ith garden fors estate his 
+names gonzago the story is extant and writ in choyce 
+italian you shall see anon how the murtherer gets the 
+loue of gonzagos wife 
+
+ophe the king rises 
+
+ham what frighted with false fire 
+
+qu how fares my lord 
+pol giue ore the play 
+
+king giue me some light away 
+
+all lights lights lights 
+
+exeunt 
+
+manet hamlet  horatio 
+
+ham why let the strucken deere go weepe 
+the hart vngalled play 
+for some must watch while some must sleepe 
+so runnes the world away 
+would not this sir and a forrest of feathers if the rest of 
+my fortunes turne turke with me with two prouinciall 
+roses on my racd shooes get me a fellowship in a crie 
+of players sir 
+
+hor halfe a share 
+
+ham  whole one  
+for thou dost know oh damon deere 
+this realme dismantled was of ioue himselfe 
+and now reignes heere 
+ verie verie paiocke 
+
+hora you might haue rimd 
+
+ham oh good horatio ile take the ghosts word for 
+a thousand pound didst perceiue 
+hora verie well my lord 
+
+ham vpon the talke of the poysoning 
+hora  did verie well note him 
+enter rosincrance and guildensterne 
+
+ham oh ha come some musick come y recorders 
+for if the king like not the comedie 
+why then belike he likes it not perdie 
+come some musicke 
+
+guild good my lord vouchsafe me a word with you 
+
+ham sir a whole history 
+
+guild the king sir 
+
+ham  sir what of him 
+guild is in his retyrement maruellous distemperd 
+
+ham with drinke sir 
+guild no my lord rather with choller 
+
+ham your wisedome should shew it selfe more richer 
+to signifie this to his doctor for for me to put him 
+to his purgation would perhaps plundge him into farre 
+more choller 
+
+guild good my lord put your discourse into some 
+frame and start not so wildely from my affayre 
+
+ham  am tame sir pronounce 
+
+guild the queene your mother in most great affliction 
+of spirit hath sent me to you 
+
+ham you are welcome 
+
+guild nay good my lord this courtesie is not of 
+the right breed if it shall please you to make me a wholsome 
+answer  will doe your mothers commandment 
+if not your pardon and my returne shall bee the end of 
+my businesse 
+
+ham sir  cannot 
+
+guild what my lord 
+ham make you a wholsome answere my wits diseasd 
+but sir such answers as  can make you shal command 
+or rather you say my mother therfore no more 
+but to the matter my mother you say 
+
+rosin then thus she sayes your behauior hath stroke 
+her into amazement and admiration 
+
+ham oh wonderfull sonne that can so astonish a 
+mother but is there no sequell at the heeles of this mothers 
+admiration 
+rosin she desires to speake with you in her closset 
+ere you go to bed 
+
+ham we shall obey were she ten times our mother 
+haue you any further trade with vs 
+rosin my lord you once did loue me 
+
+ham so  do still by these pickers and stealers 
+
+rosin good my lord what is your cause of distemper 
+you do freely barre the doore of your owne libertie 
+if you deny your greefes to your friend 
+
+ham sir  lacke aduancement 
+
+rosin how can that be when you haue the voyce of 
+the king himselfe for your succession in denmarke 
+ham  but while the grasse growes the prouerbe is 
+something musty 
+enter one with a recorder 
+
+ the recorder let me see to withdraw with you why 
+do you go about to recouer the winde of mee as if you 
+would driue me into a toyle 
+guild  my lord if my dutie be too bold my loue 
+is too vnmannerly 
+
+ham  do not well vnderstand that will you play 
+vpon this pipe 
+guild my lord  cannot 
+
+ham  pray you 
+
+guild beleeue me  cannot 
+
+ham  do beseech you 
+
+guild  know no touch of it my lord 
+
+ham tis as easie as lying gouerne these ventiges 
+with your finger and thumbe giue it breath with your 
+mouth and it will discourse most excellent musicke 
+looke you these are the stoppes 
+
+guild but these cannot  command to any vtterance 
+of hermony  haue not the skill 
+
+ham why looke you now how vnworthy a thing 
+you make of me you would play vpon mee you would 
+seeme to know my stops you would pluck out the heart 
+of my mysterie you would sound mee from my lowest 
+note to the top of my compasse and there is much musicke 
+excellent voice in this little organe yet cannot 
+you make it why do you thinke that  am easier to bee 
+plaid on then a pipe call me what instrument you will 
+though you can fret me you cannot play vpon me god 
+blesse you sir 
+enter polonius 
+
+polon my lord the queene would speak with you 
+and presently 
+
+ham do you see that clowd thats almost in shape 
+like a camell 
+
+polon byth masse and its like a camell indeed 
+
+ham me thinkes it is like a weazell 
+
+polon it is backd like a weazell 
+
+ham or like a whale 
+polon verie like a whale 
+
+ham then will  come to my mother by and by 
+they foole me to the top of my bent 
+ will come by and by 
+
+polon  will say so 
+enter 
+
+ham by and by is easily said leaue me friends 
+tis now the verie witching time of night 
+when churchyards yawne and hell it selfe breaths out 
+contagion to this world now could  drink hot blood 
+and do such bitter businesse as the day 
+would quake to looke on soft now to my mother 
+oh heart loose not thy nature let not euer 
+the soule of nero enter this firme bosome 
+let me be cruell not vnnaturall 
+ will speake daggers to her but vse none 
+my tongue and soule in this be hypocrites 
+how in my words someuer she be shent 
+to giue them seales neuer my soule consent 
+enter king rosincrance and guildensterne 
+
+king  like him not nor stands it safe with vs 
+to let his madnesse range therefore prepare you 
+ your commission will forthwith dispatch 
+and he to england shall along with you 
+the termes of our estate may not endure 
+hazard so dangerous as doth hourely grow 
+out of his lunacies 
+
+guild we will our selues prouide 
+most holie and religious feare it is 
+to keepe those many many bodies safe 
+that liue and feede vpon your maiestie 
+
+rosin the single 
+and peculiar life is bound 
+with all the strength and armour of the minde 
+to keepe it selfe from noyance but much more 
+that spirit vpon whose spirit depends and rests 
+the liues of many the cease of maiestie 
+dies not alone but like a gulfe doth draw 
+whats neere it with it it is a massie wheele 
+fixt on the somnet of the highest mount 
+to whose huge spoakes ten thousand lesser things 
+are mortizd and adioynd which when it falles 
+each small annexment pettie consequence 
+attends the boystrous ruine neuer alone 
+did the king sighe but with a generall grone 
+
+king arme you  pray you to this speedie voyage 
+for we will fetters put vpon this feare 
+which now goes too freefooted 
+
+both we will haste vs 
+
+exeunt gent 
+
+enter polonius 
+
+pol my lord hes going to his mothers closset 
+behinde the arras ile conuey my selfe 
+to heare the processe ile warrant sheel tax him home 
+and as you said and wisely was it said 
+tis meete that some more audience then a mother 
+since nature makes them partiall should oreheare 
+the speech of vantage fare you well my liege 
+ile call vpon you ere you go to bed 
+and tell you what  know 
+
+king thankes deere my lord 
+oh my offence is ranke it smels to heauen 
+it hath the primall eldest curse vpont 
+ brothers murther pray can  not 
+though inclination be as sharpe as will 
+my stronger guilt defeats my strong intent 
+and like a man to double businesse bound 
+ stand in pause where  shall first begin 
+and both neglect what if this cursed hand 
+were thicker then it selfe with brothers blood 
+is there not raine enough in the sweet heauens 
+to wash it white as snow whereto serues mercy 
+but to confront the visage of offence 
+and whats in prayer but this twofold force 
+to be forestalled ere we come to fall 
+or pardond being downe then ile looke vp 
+my fault is past but oh what forme of prayer 
+can serue my turne forgiue me my foule murther 
+that cannot be since  am still possest 
+of those effects for which  did the murther 
+my crowne mine owne ambition and my queene 
+may one be pardond and retaine th offence 
+in the corrupted currants of this world 
+offences gilded hand may shoue by iustice 
+and oft tis seene the wicked prize it selfe 
+buyes out the law but tis not so aboue 
+there is no shuffling there the action lyes 
+in his true nature and we our selues compelld 
+euen to the teeth and forehead of our faults 
+to giue in euidence what then what rests 
+try what repentance can what can it not 
+yet what can it when one cannot repent 
+oh wretched state oh bosome blacke as death 
+oh limed soule that strugling to be free 
+art more ingagd helpe angels make assay 
+bow stubborne knees and heart with strings of steele 
+be soft as sinewes of the newborne babe 
+all may be well 
+enter hamlet 
+
+ham now might  do it pat now he is praying 
+and now ile doot and so he goes to heauen 
+and so am  reuengd that would be scannd 
+ villaine killes my father and for that 
+ his foule sonne do this same villaine send 
+to heauen oh this is hyre and sallery not reuenge 
+he tooke my father grossely full of bread 
+with all his crimes broad blowne as fresh as may 
+and how his audit stands who knowes saue heauen 
+but in our circumstance and course of thought 
+tis heauie with him and am  then reuengd 
+to take him in the purging of his soule 
+when he is fit and seasond for his passage no 
+vp sword and know thou a more horrid hent 
+when he is drunke asleepe or in his rage 
+or in th incestuous pleasure of his bed 
+at gaming swearing or about some acte 
+that has no rellish of saluation int 
+then trip him that his heeles may kicke at heauen 
+and that his soule may be as damnd and blacke 
+as hell whereto it goes my mother stayes 
+this physicke but prolongs thy sickly dayes 
+enter 
+
+king my words flye vp my thoughts remain below 
+words without thoughts neuer to heauen go 
+enter 
+
+enter queene and polonius 
+
+pol he will come straight 
+looke you lay home to him 
+tell him his prankes haue been too broad to beare with 
+and that your grace hath screend and stoode betweene 
+much heate and him ile silence me eene heere 
+pray you be round with him 
+
+ham within mother mother mother 
+
+qu ile warrant you feare me not 
+withdraw  heare him coming 
+enter hamlet 
+
+ham now mother whats the matter 
+qu hamlet thou hast thy father much offended 
+
+
+ham mother you haue my father much offended 
+
+qu come come you answer with an idle tongue 
+
+ham go go you question with an idle tongue 
+
+qu why how now hamlet 
+ham whats the matter now 
+qu haue you forgot me 
+ham no by the rood not so 
+you are the queene your husbands brothers wife 
+but would you were not so you are my mother 
+
+qu nay then ile set those to you that can speake 
+
+ham come come and sit you downe you shall not 
+boudge 
+you go not till  set you vp a glasse 
+where you may see the inmost part of you 
+qu what wilt thou do thou wilt not murther me 
+helpe helpe hoa 
+
+pol what hoa helpe helpe helpe 
+
+ham how now a rat dead for a ducate dead 
+
+pol oh  am slaine 
+
+killes polonius 
+
+qu oh me what hast thou done 
+ham nay  know not is it the king 
+qu oh what a rash and bloody deed is this 
+ham  bloody deed almost as bad good mother 
+as kill a king and marrie with his brother 
+
+qu as kill a king 
+ham  lady twas my word 
+thou wretched rash intruding foole farewell 
+ tooke thee for thy betters take thy fortune 
+thou findst to be too busie is some danger 
+leaue wringing of your hands peace sit you downe 
+and let me wring your heart for so  shall 
+if it be made of penetrable stuffe 
+if damned custome haue not brazd it so 
+that it is proofe and bulwarke against sense 
+
+qu what haue  done that thou darst wag thy tong 
+in noise so rude against me 
+ham such an act 
+that blurres the grace and blush of modestie 
+cals vertue hypocrite takes off the rose 
+from the faire forehead of an innocent loue 
+and makes a blister there makes marriage vowes 
+as false as dicers oathes oh such a deed 
+as from the body of contraction pluckes 
+the very soule and sweete religion makes 
+ rapsidie of words heauens face doth glow 
+yea this solidity and compound masse 
+with tristfull visage as against the doome 
+is thoughtsicke at the act 
+
+qu aye me what act that roares so lowd  thunders 
+in the index 
+
+ham looke heere vpon this picture and on this 
+the counterfet presentment of two brothers 
+see what a grace was seated on his brow 
+hyperions curles the front of ioue himselfe 
+an eye like mars to threaten or command 
+ station like the herald mercurie 
+new lighted on a heauenkissing hill 
+ combination and a forme indeed 
+where euery god did seeme to set his seale 
+to giue the world assurance of a man 
+this was your husband looke you now what followes 
+heere is your husband like a mildewd eare 
+blasting his wholsom breath haue you eyes 
+could you on this faire mountaine leaue to feed 
+and batten on this moore ha haue you eyes 
+you cannot call it loue for at your age 
+the heyday in the blood is tame its humble 
+and waites vpon the iudgement and what iudgement 
+would step from this to this what diuell wast 
+that thus hath cousend you at hoodmanblinde 
+ shame where is thy blush rebellious hell 
+if thou canst mutine in a matrons bones 
+to flaming youth let vertue be as waxe 
+and melt in her owne fire proclaime no shame 
+when the compulsiue ardure giues the charge 
+since frost it selfe as actiuely doth burne 
+as reason panders will 
+
+qu  hamlet speake no more 
+thou turnst mine eyes into my very soule 
+and there  see such blacke and grained spots 
+as will not leaue their tinct 
+
+ham nay but to liue 
+in the ranke sweat of an enseamed bed 
+stewd in corruption honying and making loue 
+ouer the nasty stye 
+
+qu oh speake to me no more 
+these words like daggers enter in mine eares 
+no more sweet hamlet 
+
+ham  murderer and a villaine 
+ slaue that is not twentieth part the tythe 
+of your precedent lord  vice of kings 
+ cutpurse of the empire and the rule 
+that from a shelfe the precious diadem stole 
+and put it in his pocket 
+
+qu no more 
+enter ghost 
+
+ham  king of shreds and patches 
+saue me and houer ore me with your wings 
+you heauenly guards what would your gracious figure 
+qu alas hes mad 
+
+ham do you not come your tardy sonne to chide 
+that lapst in time and passion lets go by 
+th important acting of your dread command oh say 
+
+ghost do not forget this visitation 
+is but to whet thy almost blunted purpose 
+but looke amazement on thy mother sits 
+ step betweene her and her fighting soule 
+conceit in weakest bodies strongest workes 
+speake to her hamlet 
+
+ham how is it with you lady 
+qu alas how ist with you 
+that you bend your eye on vacancie 
+and with their corporall ayre do hold discourse 
+forth at your eyes your spirits wildely peepe 
+and as the sleeping soldiours in th alarme 
+your bedded haire like life in excrements 
+start vp and stand an end oh gentle sonne 
+vpon the heate and flame of thy distemper 
+sprinkle coole patience whereon do you looke 
+ham on him on him look you how pale he glares 
+his forme and cause conioynd preaching to stones 
+would make them capeable do not looke vpon me 
+least with this pitteous action you conuert 
+my sterne effects then what  haue to do 
+will want true colour teares perchance for blood 
+
+qu to who do you speake this 
+ham do you see nothing there 
+qu nothing at all yet all that is  see 
+
+ham nor did you nothing heare 
+qu no nothing but our selues 
+
+ham why look you there looke how it steals away 
+my father in his habite as he liued 
+looke where he goes euen now out at the portall 
+enter 
+
+qu this is the very coynage of your braine 
+this bodilesse creation extasie is very cunning in 
+
+ham extasie 
+my pulse as yours doth temperately keepe time 
+and makes as healthfull musicke it is not madnesse 
+that  haue vttered bring me to the test 
+and  the matter will reword which madnesse 
+would gamboll from mother for loue of grace 
+lay not a flattering vnction to your soule 
+that not your trespasse but my madnesse speakes 
+it will but skin and filme the vlcerous place 
+whilst ranke corruption mining all within 
+infects vnseene confesse your selfe to heauen 
+repent whats past auoyd what is to come 
+and do not spred the compost on the weedes 
+to make them ranke forgiue me this my vertue 
+for in the fatnesse of this pursie times 
+vertue it selfe of vice must pardon begge 
+yea courb and woe for leaue to do him good 
+
+qu oh hamlet 
+thou hast cleft my heart in twaine 
+
+ham  throw away the worser part of it 
+and liue the purer with the other halfe 
+good night but go not to mine vnkles bed 
+assume a vertue if you haue it not refraine to night 
+and that shall lend a kinde of easinesse 
+to the next abstinence once more goodnight 
+and when you are desirous to be blest 
+ile blessing begge of you for this same lord 
+ do repent but heauen hath pleasd it so 
+to punish me with this and this with me 
+that  must be their scourge and minister 
+ will bestow him and will answer well 
+the death  gaue him so againe good night 
+ must be cruell onely to be kinde 
+thus bad begins and worse remaines behinde 
+
+qu what shall  do 
+ham not this by no meanes that  bid you do 
+let the blunt king tempt you againe to bed 
+pinch wanton on your cheeke call you his mouse 
+and let him for a paire of reechie kisses 
+or padling in your necke with his damnd fingers 
+make you to rauell all this matter out 
+that  essentially am not in madnesse 
+but made in craft twere good you let him know 
+for who thats but a queene faire sober wise 
+would from a paddocke from a bat a gibbe 
+such deere concernings hide who would do so 
+no in despight of sense and secrecie 
+vnpegge the basket on the houses top 
+let the birds flye and like the famous ape 
+to try conclusions in the basket creepe 
+and breake your owne necke downe 
+
+qu be thou assurd if words be made of breath 
+and breath of life  haue no life to breath 
+what thou hast saide to me 
+
+ham  must to england you know that 
+qu alacke  had forgot tis so concluded on 
+
+ham this man shall set me packing 
+ile lugge the guts into the neighbor roome 
+mother goodnight indeede this counsellor 
+is now most still most secret and most graue 
+who was in life a foolish prating knaue 
+come sir to draw toward an end with you 
+good night mother 
+exit hamlet tugging in polonius 
+
+enter king 
+
+king theres matters in these sighes 
+these profound heaues 
+you must translate tis fit we vnderstand them 
+where is your sonne 
+qu ah my good lord what haue  seene to night 
+king what gertrude how dos hamlet 
+qu mad as the seas and winde when both contend 
+which is the mightier in his lawlesse fit 
+behinde the arras hearing something stirre 
+he whips his rapier out and cries a rat a rat 
+and in his brainish apprehension killes 
+the vnseene good old man 
+
+king oh heauy deed 
+it had bin so with vs had we beene there 
+his liberty is full of threats to all 
+to you your selfe to vs to euery one 
+alas how shall this bloody deede be answered 
+it will be laide to vs whose prouidence 
+should haue kept short restraind and out of haunt 
+this mad yong man but so much was our loue 
+we would not vnderstand what was most fit 
+but like the owner of a foule disease 
+to keepe it from divulging lets it feede 
+euen on the pith of life where is he gone 
+qu to draw apart the body he hath kild 
+ore whom his very madnesse like some oare 
+among a minerall of mettels base 
+shewes it selfe pure he weepes for what is done 
+
+king oh gertrude come away 
+the sun no sooner shall the mountaines touch 
+but we will ship him hence and this vilde deed 
+we must with all our maiesty and skill 
+both countenance and excuse 
+enter ros  guild 
+
+ho guildenstern 
+friends both go ioyne you with some further ayde 
+hamlet in madnesse hath polonius slaine 
+and from his mother clossets hath he dragd him 
+go seeke him out speake faire and bring the body 
+into the chappell  pray you hast in this 
+exit gent 
+
+come gertrude weel call vp our wisest friends 
+to let them know both what we meane to do 
+and whats vntimely done oh come away 
+my soule is full of discord and dismay 
+
+exeunt 
+
+enter hamlet 
+
+ham safely stowed 
+
+gentlemen within hamlet lord hamlet 
+
+ham what noise who cals on hamlet 
+oh heere they come 
+enter ros and guildensterne 
+
+ro what haue you done my lord with the dead body 
+ham compounded it with dust whereto tis kinne 
+
+rosin tell vs where tis that we may take it thence 
+and beare it to the chappell 
+
+ham do not beleeue it 
+
+rosin beleeue what 
+ham that  can keepe your counsell and not mine 
+owne besides to be demanded of a spundge what replication 
+should be made by the sonne of a king 
+
+rosin take you me for a spundge my lord 
+ham  sir that sokes vp the kings countenance his 
+rewards his authorities but such officers do the king 
+best seruice in the end he keepes them like an ape in 
+the corner of his iaw first mouthd to be last swallowed 
+when he needes what you haue gleand it is but squeezing 
+you and spundge you shall be dry againe 
+
+rosin  vnderstand you not my lord 
+
+ham  am glad of it a knauish speech sleepes in a 
+foolish eare 
+
+rosin my lord you must tell vs where the body is 
+and go with vs to the king 
+
+ham the body is with the king but the king is not 
+with the body the king is a thing 
+guild  thing my lord 
+ham of nothing bring me to him hide fox and all 
+after 
+
+exeunt 
+
+enter king 
+
+king  haue sent to seeke him and to find the bodie 
+how dangerous is it that this man goes loose 
+yet must not we put the strong law on him 
+hees loued of the distracted multitude 
+who like not in their iudgement but their eyes 
+and where tis so th offenders scourge is weighd 
+but neerer the offence to beare all smooth and euen 
+this sodaine sending him away must seeme 
+deliberate pause diseases desperate growne 
+by desperate appliance are releeued 
+or not at all 
+enter rosincrane 
+
+how now what hath befalne 
+rosin where the dead body is bestowd my lord 
+we cannot get from him 
+
+king but where is he 
+rosin without my lord guarded to know your 
+pleasure 
+
+king bring him before vs 
+
+rosin hoa guildensterne bring in my lord 
+enter hamlet and guildensterne 
+
+king now hamlet wheres polonius 
+ham at supper 
+
+king at supper where 
+ham not where he eats but where he is eaten a certaine 
+conuocation of wormes are ene at him your worm 
+is your onely emperor for diet we fat all creatures else 
+to fat vs and we fat our selfe for magots your fat king 
+and your leane begger is but variable seruice to dishes 
+but to one table thats the end 
+
+king what dost thou meane by this 
+ham nothing but to shew you how a king may go 
+a progresse through the guts of a begger 
+
+king where is polonius 
+
+ham in heauen send thither to see if your messenger 
+finde him not there seeke him ith other place your 
+selfe but indeed if you finde him not this moneth you 
+shall nose him as you go vp the staires into the lobby 
+
+king go seeke him there 
+
+ham he will stay till ye come 
+
+ hamlet this deed of thine for thine especial safety 
+which we do tender as we deerely greeue 
+for that which thou hast done must send thee hence 
+with fierie quicknesse therefore prepare thy selfe 
+the barke is readie and the winde at helpe 
+th associates tend and euery thing at bent 
+for england 
+
+ham for england 
+king  hamlet 
+
+ham good 
+
+king so is it if thou knewst our purposes 
+
+ham  see a cherube that sees him but come for 
+england farewell deere mother 
+
+king thy louing father hamlet 
+
+hamlet my mother father and mother is man and 
+wife man  wife is one flesh and so my mother come 
+for england 
+
+exit 
+
+king follow him at foote 
+tempt him with speed aboord 
+delay it not ile haue him hence to night 
+away for euery thing is seald and done 
+that else leanes on th affaire pray you make hast 
+and england if my loue thou holdst at ought 
+as my great power thereof may giue thee sense 
+since yet thy cicatrice lookes raw and red 
+after the danish sword and thy free awe 
+payes homage to vs thou maist not coldly set 
+our soueraigne processe which imports at full 
+by letters coniuring to that effect 
+the present death of hamlet do it england 
+for like the hecticke in my blood he rages 
+and thou must cure me till  know tis done 
+how ere my happes my ioyes were nere begun 
+
+exit 
+
+enter fortinbras with an armie 
+
+for go captaine from me greet the danish king 
+tell him that by his license fortinbras 
+claimes the conueyance of a promisd march 
+ouer his kingdome you know the rendeuous 
+if that his maiesty would ought with vs 
+we shall expresse our dutie in his eye 
+and let him know so 
+
+cap  will doot my lord 
+
+for go safely on 
+enter 
+
+enter queene and horatio 
+
+qu  will not speake with her 
+
+hor she is importunate indeed distract her moode 
+will needs be pittied 
+
+qu what would she haue 
+hor she speakes much of her father saies she heares 
+theres trickes ith world and hems and beats her heart 
+spurnes enuiously at strawes speakes things in doubt 
+that carry but halfe sense her speech is nothing 
+yet the vnshaped vse of it doth moue 
+the hearers to collection they ayme at it 
+and botch the words vp fit to their owne thoughts 
+which as her winkes and nods and gestures yeeld them 
+indeed would make one thinke there would be thought 
+though nothing sure yet much vnhappily 
+
+qu twere good she were spoken with 
+for she may strew dangerous coniectures 
+in ill breeding minds let her come in 
+to my sicke soule as sinnes true nature is 
+each toy seemes prologue to some great amisse 
+so full of artlesse iealousie is guilt 
+it spills it selfe in fearing to be spilt 
+enter ophelia distracted 
+
+ophe where is the beauteous maiesty of denmark 
+
+qu how now ophelia 
+ophe how should  your true loue know from another one 
+by his cockle hat and staffe and his sandal shoone 
+
+qu alas sweet lady what imports this song 
+ophe say you nay pray you marke 
+he is dead and gone lady he is dead and gone 
+at his head a grassegreene turfe at his heeles a stone 
+enter king 
+
+qu nay but ophelia 
+
+ophe pray you marke 
+white his shrowd as the mountaine snow 
+
+qu alas looke heere my lord 
+
+ophe larded with sweet flowers 
+which bewept to the graue did not go 
+with trueloue showres 
+
+king how do ye pretty lady 
+ophe well god dild you they say the owle was 
+a bakers daughter lord wee know what we are but 
+know not what we may be god be at your table 
+
+king conceit vpon her father 
+
+ophe pray you lets haue no words of this but when 
+they aske you what it meanes say you this 
+to morrow is saint valentines day all in the morning betime 
+and  a maid at your window to be your valentine 
+then vp he rose  dond his clothes  dupt the chamber dore 
+let in the maid that out a maid neuer departed more 
+
+king pretty ophelia 
+
+ophe indeed la without an oath ile make an end ont 
+by gis and by saint charity 
+alacke and fie for shame 
+yong men wil doot if they come toot 
+by cocke they are too blame 
+quoth she before you tumbled me 
+you promisd me to wed 
+so would  ha done by yonder sunne 
+and thou hadst not come to my bed 
+
+king how long hath she bin thus 
+ophe  hope all will be well we must bee patient 
+but  cannot choose but weepe to thinke they should 
+lay him ith cold ground my brother shall knowe of it 
+and so  thanke you for your good counsell come my 
+coach goodnight ladies goodnight sweet ladies 
+goodnight goodnight 
+enter 
+
+king follow her close 
+giue her good watch  pray you 
+oh this is the poyson of deepe greefe it springs 
+all from her fathers death oh gertrude gertrude 
+when sorrowes comes they come not single spies 
+but in battalians first her father slaine 
+next your sonne gone and he most violent author 
+of his owne iust remoue the people muddied 
+thicke and vnwholsome in their thoughts and whispers 
+for good polonius death and we haue done but greenly 
+in hugger mugger to interre him poore ophelia 
+diuided from her selfe and her faire iudgement 
+without the which we are pictures or meere beasts 
+last and as much containing as all these 
+her brother is in secret come from france 
+keepes on his wonder keepes himselfe in clouds 
+and wants not buzzers to infect his eare 
+with pestilent speeches of his fathers death 
+where in necessitie of matter beggard 
+will nothing sticke our persons to arraigne 
+in eare and eare  my deere gertrude this 
+like to a murdering peece in many places 
+giues me superfluous death 
+
+ noise within 
+
+enter a messenger 
+
+qu alacke what noyse is this 
+king where are my switzers 
+let them guard the doore what is the matter 
+mes saue your selfe my lord 
+the ocean ouerpeering of his list 
+eates not the flats with more impittious haste 
+then young laertes in a riotous head 
+orebeares your officers the rabble call him lord 
+and as the world were now but to begin 
+antiquity forgot custome not knowne 
+the ratifiers and props of euery word 
+they cry choose we laertes shall be king 
+caps hands and tongues applaud it to the clouds 
+laertes shall be king laertes king 
+
+qu how cheerefully on the false traile they cry 
+oh this is counter you false danish dogges 
+
+noise within enter laertes 
+
+king the doores are broke 
+
+laer where is the king sirs stand you all without 
+
+all no lets come in 
+
+laer  pray you giue me leaue 
+
+al we will we will 
+
+laer  thanke you keepe the doore 
+oh thou vilde king giue me my father 
+
+qu calmely good laertes 
+
+laer that drop of blood that calmes 
+proclaimes me bastard 
+cries cuckold to my father brands the harlot 
+euen heere betweene the chaste vnsmirched brow 
+of my true mother 
+
+king what is the cause laertes 
+that thy rebellion lookes so gyantlike 
+let him go gertrude do not feare our person 
+theres such diuinity doth hedge a king 
+that treason can but peepe to what it would 
+acts little of his will tell me laertes 
+why thou art thus incenst let him go gertrude 
+speake man 
+
+laer wheres my father 
+king dead 
+
+qu but not by him 
+
+king let him demand his fill 
+
+laer how came he dead ile not be iuggeld with 
+to hell allegeance vowes to the blackest diuell 
+conscience and grace to the profoundest pit 
+ dare damnation to this point  stand 
+that both the worlds  giue to negligence 
+let come what comes onely ile be reuengd 
+most throughly for my father 
+
+king who shall stay you 
+laer my will not all the world 
+and for my meanes ile husband them so well 
+they shall go farre with little 
+
+king good laertes 
+if you desire to know the certaintie 
+of your deere fathers death if writ in your reuenge 
+that soopstake you will draw both friend and foe 
+winner and looser 
+
+laer none but his enemies 
+
+king will you know them then 
+
+la to his good friends thus wide ile ope my armes 
+and like the kinde liferendring politician 
+repast them with my blood 
+
+king why now you speake 
+like a good childe and a true gentleman 
+that  am guiltlesse of your fathers death 
+and am most sensible in greefe for it 
+it shall as leuell to your iudgement pierce 
+as day dos to your eye 
+
+ noise within let her come in 
+
+enter ophelia 
+
+laer how now what noise is that 
+oh heate drie vp my braines teares seuen times salt 
+burne out the sence and vertue of mine eye 
+by heauen thy madnesse shall be payed by waight 
+till our scale turnes the beame oh rose of may 
+deere maid kinde sister sweet ophelia 
+oh heauens ist possible a yong maids wits 
+should be as mortall as an old mans life 
+nature is fine in loue and where tis fine 
+it sends some precious instance of it selfe 
+after the thing it loues 
+
+ophe they bore him bare facd on the beer 
+hey non nony nony hey nony 
+and on his graue raines many a teare 
+fare you well my doue 
+
+laer hadst thou thy wits and didst perswade reuenge 
+it could not moue thus 
+
+ophe you must sing downe adowne and you call 
+him adownea oh how the wheele becomes it it is 
+the false steward that stole his masters daughter 
+
+laer this nothings more then matter 
+
+ophe theres rosemary thats for remembraunce 
+pray loue remember and there is paconcies thats for 
+thoughts 
+
+laer  document in madnesse thoughts  remembrance 
+fitted 
+
+ophe theres fennell for you and columbines thers 
+rew for you and heeres some for me wee may call it 
+herbegrace a sundaies oh you must weare your rew 
+with a difference theres a daysie  would giue you 
+some violets but they witherd all when my father dyed 
+they say he made a good end 
+for bonny sweet robin is all my ioy 
+
+laer thought and affliction passion hell it selfe 
+she turnes to fauour and to prettinesse 
+
+ophe and will he not come againe 
+and will he not come againe 
+no no he is dead go to thy deathbed 
+he neuer wil come againe 
+his beard as white as snow 
+all flaxen was his pole 
+he is gone he is gone and we cast away mone 
+gramercy on his soule 
+and of all christian soules  pray god 
+god buy ye 
+
+exeunt ophelia 
+
+laer do you see this you gods 
+king laertes  must common with your greefe 
+or you deny me right go but apart 
+make choice of whom your wisest friends you will 
+and they shall heare and iudge twixt you and me 
+if by direct or by colaterall hand 
+they finde vs touchd we will our kingdome giue 
+our crowne our life and all that we call ours 
+to you in satisfaction but if not 
+be you content to lend your patience to vs 
+and we shall ioyntly labour with your soule 
+to giue it due content 
+
+laer let this be so 
+his meanes of death his obscure buriall 
+no trophee sword nor hatchment ore his bones 
+no noble rite nor formall ostentation 
+cry to be heard as twere from heauen to earth 
+that  must call in question 
+
+king so you shall 
+and where th offence is let the great axe fall 
+ pray you go with me 
+
+exeunt 
+
+enter horatio with an attendant 
+
+hora what are they that would speake with me 
+ser saylors sir they say they haue letters for you 
+
+hor let them come in 
+ do not know from what part of the world 
+ should be greeted if not from lord hamlet 
+enter saylor 
+
+say god blesse you sir 
+
+hor let him blesse thee too 
+
+say hee shall sir andt please him theres a letter 
+for you sir it comes from th ambassadours that was 
+bound for england if your name be horatio as  am let 
+to know it is 
+
+reads the letter 
+
+horatio when thou shalt haue ouerlookd this giue these 
+fellowes some meanes to the king they haue letters 
+for him ere we were two dayes old at sea a pyrate of very 
+warlicke appointment gaue vs chace finding our selues too 
+slow of saile we put on a compelled valour in the grapple  
+boorded them on the instant they got cleare of our shippe so 
+ alone became their prisoner they haue dealt with mee like 
+theeues of mercy but they knew what they did  am to doe 
+a good turne for them let the king haue the letters  haue 
+sent and repaire thou to me with as much hast as thou wouldest 
+flye death  haue words to speake in your eare will make thee 
+dumbe yet are they much too light for the bore of the matter 
+these good fellowes will bring thee where  am rosincrance 
+and guildensterne hold their course for england of them 
+ haue much to tell thee farewell 
+he that thou knowest thine 
+hamlet 
+come  will giue you way for these your letters 
+and dot the speedier that you may direct me 
+to him from whom you brought them 
+enter 
+
+enter king and laertes 
+
+king now must your conscience my acquittance seal 
+and you must put me in your heart for friend 
+sith you haue heard and with a knowing eare 
+that he which hath your noble father slaine 
+pursued my life 
+
+laer it well appeares but tell me 
+why you proceeded not against these feates 
+so crimefull and so capitall in nature 
+as by your safety wisedome all things else 
+you mainly were stirrd vp 
+king  for two speciall reasons 
+which may to you perhaps seeme much vnsinnowed 
+and yet to me they are strong the queen his mother 
+liues almost by his lookes and for my selfe 
+my vertue or my plague be it either which 
+shes so coniunctiue to my life and soule 
+that as the starre moues not but in his sphere 
+ could not but by her the other motiue 
+why to a publike count  might not go 
+is the great loue the generall gender beare him 
+who dipping all his faults in their affection 
+would like the spring that turneth wood to stone 
+conuert his gyues to graces so that my arrowes 
+too slightly timbred for so loud a winde 
+would haue reuerted to my bow againe 
+and not where  had armd them 
+
+laer and so haue  a noble father lost 
+ sister driuen into desperate tearmes 
+who was if praises may go backe againe 
+stood challenger on mount of all the age 
+for her perfections but my reuenge will come 
+
+king breake not your sleepes for that 
+you must not thinke 
+that we are made of stuffe so flat and dull 
+that we can let our beard be shooke with danger 
+and thinke it pastime you shortly shall heare more 
+ loud your father and we loue our selfe 
+and that  hope will teach you to imagine 
+enter a messenger 
+
+how now what newes 
+mes letters my lord from hamlet this to your 
+maiesty this to the queene 
+
+king from hamlet who brought them 
+mes saylors my lord they say  saw them not 
+they were giuen me by claudio he receiud them 
+
+king laertes you shall heare them 
+leaue vs 
+
+exit messenger 
+
+high and mighty you shall know  am set naked on your 
+kingdome to morrow shall  begge leaue to see your kingly 
+eyes when  shall first asking your pardon thereunto recount 
+th occasions of my sodaine and more strange returne 
+hamlet 
+what should this meane are all the rest come backe 
+or is it some abuse or no such thing 
+laer know you the hand 
+kin tis hamlets character naked and in a postscript 
+here he sayes alone can you aduise me 
+laer im lost in it my lord but let him come 
+it warmes the very sicknesse in my heart 
+that  shall liue and tell him to his teeth 
+thus diddest thou 
+
+kin if it be so laertes as how should it be so 
+how otherwise will you be ruld by me 
+laer if so youl not orerule me to a peace 
+
+kin to thine owne peace if he be now returnd 
+as checking at his voyage and that he meanes 
+no more to vndertake it  will worke him 
+to an exployt now ripe in my deuice 
+vnder the which he shall not choose but fall 
+and for his death no winde of blame shall breath 
+but euen his mother shall vncharge the practice 
+and call it accident some two monthes hence 
+here was a gentleman of normandy 
+iue seene my selfe and serud against the french 
+and they ran well on horsebacke but this gallant 
+had witchcraft int he grew into his seat 
+and to such wondrous doing brought his horse 
+as had he beene encorpst and demynaturd 
+with the braue beast so farre he past my thought 
+that  in forgery of shapes and trickes 
+come short of what he did 
+
+laer  norman wast 
+kin  norman 
+
+laer vpon my life lamound 
+
+kin the very same 
+
+laer  know him well he is the brooch indeed 
+and iemme of all our nation 
+
+kin hee mad confession of you 
+and gaue you such a masterly report 
+for art and exercise in your defence 
+and for your rapier most especiall 
+that he cryed out twould be a sight indeed 
+if one could match you sir this report of his 
+did hamlet so envenom with his enuy 
+that he could nothing doe but wish and begge 
+your sodaine comming ore to play with him 
+now out of this 
+
+laer why out of this my lord 
+kin laertes was your father deare to you 
+or are you like the painting of a sorrow 
+ face without a heart 
+laer why aske you this 
+kin not that  thinke you did not loue your father 
+but that  know loue is begun by time 
+and that  see in passages of proofe 
+time qualifies the sparke and fire of it 
+hamlet comes backe what would you vndertake 
+to show your selfe your fathers sonne indeed 
+more then in words 
+laer to cut his throat ith church 
+
+kin no place indeed should murder sancturize 
+reuenge should haue no bounds but good laertes 
+will you doe this keepe close within your chamber 
+hamlet returnd shall know you are come home 
+weel put on those shall praise your excellence 
+and set a double varnish on the fame 
+the frenchman gaue you bring you in fine together 
+and wager on your heads he being remisse 
+most generous and free from all contriuing 
+will not peruse the foiles so that with ease 
+or with a little shuffling you may choose 
+ sword vnbaited and in a passe of practice 
+requit him for your father 
+
+laer  will doot 
+and for that purpose ile annoint my sword 
+ bought an vnction of a mountebanke 
+so mortall  but dipt a knife in it 
+where it drawes blood no cataplasme so rare 
+collected from all simples that haue vertue 
+vnder the moone can saue the thing from death 
+that is but scratcht withall ile touch my point 
+with this contagion that if  gall him slightly 
+it may be death 
+
+kin lets further thinke of this 
+weigh what conuenience both of time and meanes 
+may fit vs to our shape if this should faile 
+and that our drift looke through our bad performance 
+twere better not assaid therefore this proiect 
+should haue a backe or second that might hold 
+if this should blast in proofe soft let me see 
+weel make a solemne wager on your commings 
+ hat when in your motion you are hot and dry 
+as make your bowts more violent to the end 
+and that he cals for drinke ile haue prepard him 
+ challice for the nonce whereon but sipping 
+if he by chance escape your venomd stuck 
+our purpose may hold there how sweet queene 
+enter queene 
+
+queen one woe doth tread vpon anothers heele 
+so fast theyl follow your sisters drownd laertes 
+
+laer drownd  where 
+queen there is a willow growes aslant a brooke 
+that shewes his hore leaues in the glassie streame 
+there with fantasticke garlands did she come 
+of crowflowers nettles daysies and long purples 
+that liberall shepheards giue a grosser name 
+but our cold maids doe dead mens fingers call them 
+there on the pendant boughes her coronet weeds 
+clambring to hang an enuious sliuer broke 
+when downe the weedy trophies and her selfe 
+fell in the weeping brooke her cloathes spred wide 
+and mermaidlike a while they bore her vp 
+which time she chaunted snatches of old tunes 
+as one incapable of her owne distresse 
+or like a creature natiue and indued 
+vnto that element but long it could not be 
+till that her garments heauy with her drinke 
+puld the poore wretch from her melodious buy 
+to muddy death 
+
+laer alas then is she drownd 
+queen drownd drownd 
+
+laer too much of water hast thou poore ophelia 
+and therefore  forbid my teares but yet 
+it is our tricke nature her custome holds 
+let shame say what it will when these are gone 
+the woman will be out adue my lord 
+ haue a speech of fire that faine would blaze 
+but that this folly doubts it 
+enter 
+
+kin lets follow gertrude 
+how much  had to doe to calme his rage 
+now feare  this will giue it start againe 
+therefore lets follow 
+
+exeunt 
+
+enter two clownes 
+
+clown is she to bee buried in christian buriall that 
+wilfully seekes her owne saluation 
+other  tell thee she is and therefore make her graue 
+straight the crowner hath sate on her and finds it christian 
+buriall 
+
+clo how can that be vnlesse she drowned her selfe in 
+her owne defence 
+other why tis found so 
+
+clo it must be se offendendo it cannot bee else for 
+heere lies the point if  drowne my selfe wittingly it argues 
+an act and an act hath three branches it is an 
+act to doe and to performe argall she drownd her selfe 
+wittingly 
+
+other nay but heare you goodman deluer 
+
+clown giue me leaue heere lies the water good 
+heere stands the man good if the man goe to this water 
+and drowne himselfe it is will he nill he he goes 
+marke you that but if the water come to him  drowne 
+him hee drownes not himselfe argall hee that is not 
+guilty of his owne death shortens not his owne life 
+
+other but is this law 
+clo  marry ist crowners quest law 
+
+other will you ha the truth ont if this had not 
+beene a gentlewoman shee should haue beene buried 
+out of christian buriall 
+
+clo why there thou sayst and the more pitty that 
+great folke should haue countenance in this world to 
+drowne or hang themselues more then their euen christian 
+come my spade there is no ancient gentlemen 
+but gardiners ditchers and grauemakers they hold vp 
+adams profession 
+
+other was he a gentleman 
+clo he was the first that euer bore armes 
+
+other why he had none 
+
+clo what art a heathen how doth thou vnderstand 
+the scripture the scripture sayes adam digd 
+could hee digge without armes ile put another question 
+to thee if thou answerest me not to the purpose confesse 
+thy selfe 
+other go too 
+
+clo what is he that builds stronger then either the 
+mason the shipwright or the carpenter 
+other the gallowes maker for that frame outliues a 
+thousand tenants 
+
+clo  like thy wit well in good faith the gallowes 
+does well but how does it well it does well to those 
+that doe ill now thou dost ill to say the gallowes is 
+built stronger then the church argall the gallowes 
+may doe well to thee toot againe come 
+
+other who builds stronger then a mason a shipwright 
+or a carpenter 
+clo  tell me that and vnyoake 
+
+other marry now  can tell 
+
+clo toot 
+
+other masse  cannot tell 
+enter hamlet and horatio a farre off 
+
+clo cudgell thy braines no more about it for your 
+dull asse will not mend his pace with beating and when 
+you are askt this question next say a grauemaker the 
+houses that he makes lasts till doomesday go get thee 
+to yaughan fetch me a stoupe of liquor 
+
+sings 
+
+in youth when  did loue did loue 
+me thought it was very sweete 
+to contract  the time for a my behoue 
+ me thought there was nothing meete 
+
+ham has this fellow no feeling of his businesse that 
+he sings at grauemaking 
+hor custome hath made it in him a property of easinesse 
+
+ham tis een so the hand of little imployment hath 
+the daintier sense 
+
+clowne sings but age with his stealing steps 
+hath caught me in his clutch 
+and hath shipped me intill the land 
+as if  had neuer beene such 
+
+ham that scull had a tongue in it and could sing 
+once how the knaue iowles it to th grownd as if it 
+were caines iawbone that did the first murther it 
+might be the pate of a polititian which this asse ore offices 
+one that could circumuent god might it not 
+hor it might my lord 
+
+ham or of a courtier which could say good morrow 
+sweet lord how dost thou good lord this 
+might be my lord such a one that praisd my lord such 
+a ones horse when he meant to begge it might it not 
+hor  my lord 
+
+ham why een so and now my lady wormes 
+chaplesse and knockt about the mazard with a sextons 
+spade heeres fine reuolution if wee had the tricke to 
+seet did these bones cost no more the breeding but 
+to play at loggets with em mine ake to thinke 
+ont 
+
+clowne sings  pickhaxe and a spade a spade 
+for and a shrowdingsheete 
+ a pit of clay for to be made 
+for such a guest is meete 
+
+ham theres another why might not that bee the 
+scull of a lawyer where be his quiddits now his 
+quillets his cases his tenures and his tricks why 
+does he suffer this rude knaue now to knocke him about 
+the sconce with a dirty shouell and will not tell him of 
+his action of battery hum this fellow might be ins 
+time a great buyer of land with his statutes his recognizances 
+his fines his double vouchers his recoueries 
+is this the fine of his fines and the recouery of his recoueries 
+to haue his fine pate full of fine dirt will his 
+vouchers vouch him no more of his purchases and double 
+ones too then the length and breadth of a paire of 
+indentures the very conueyances of his lands will 
+hardly lye in this boxe and must the inheritor himselfe 
+haue no more ha 
+hor not a iot more my lord 
+
+ham is not parchment made of sheepskinnes 
+hor  my lord and of calueskinnes too 
+
+ham they are sheepe and calues that seek out assurance 
+in that  will speake to this fellow whose graues 
+this sir 
+clo mine sir 
+ a pit of clay for to be made 
+for such a guest is meete 
+
+ham  thinke it be thine indeed for thou liest int 
+
+clo you lye out ont sir and therefore it is not yours 
+for my part  doe not lye int and yet it is mine 
+
+ham thou dost lye int to be int and say tis thine 
+tis for the dead not for the quicke therefore thou 
+lyest 
+
+clo tis a quicke lye sir twill away againe from me 
+to you 
+
+ham what man dost thou digge it for 
+clo for no man sir 
+
+ham what woman then 
+clo for none neither 
+
+ham who is to be buried int 
+clo one that was a woman sir but rest her soule 
+shees dead 
+
+ham how absolute the knaue is wee must speake 
+by the carde or equiuocation will vndoe vs by the 
+lord horatio these three yeares  haue taken note of it 
+the age is growne so picked that the toe of the pesant 
+comes so neere the heeles of our courtier hee galls his 
+kibe how long hast thou been a grauemaker 
+clo of all the dayes ith yeare  came toot that day 
+that our last king hamlet orecame fortinbras 
+
+ham how long is that since 
+clo cannot you tell that euery foole can tell that 
+it was the very day that young hamlet was borne hee 
+that was mad and sent into england 
+
+ham  marry why was he sent into england 
+clo why because he was mad hee shall recouer his 
+wits there or if he do not its no great matter there 
+
+ham why 
+clo twill not be seene in him there the men are as 
+mad as he 
+
+ham how came he mad 
+clo very strangely they say 
+
+ham how strangely 
+clo faith eene with loosing his wits 
+
+ham vpon what ground 
+clo why heere in denmarke  haue bin sixeteene 
+heere man and boy thirty yeares 
+
+ham how long will a man lie ith earth ere he rot 
+clo ifaith if he be not rotten before he die as we haue 
+many pocky coarses now adaies that will scarce hold 
+the laying in he will last you some eight yeare or nine 
+yeare  tanner will last you nine yeare 
+
+ham why he more then another 
+clo why sir his hide is so tand with his trade that 
+he will keepe out water a great while and your water 
+is a sore decayer of your horson dead body heres a scull 
+now this scul has laine in the earth three  twenty years 
+
+ham whose was it 
+clo  whoreson mad fellowes it was 
+whose doe you thinke it was 
+ham nay  know not 
+
+clo  pestilence on him for a mad rogue a pourd a 
+flaggon of renish on my head once this same scull 
+sir this same scull sir was yoricks scull the kings iester 
+
+ham this 
+clo eene that 
+
+ham let me see alas poore yorick  knew him horatio 
+a fellow of infinite iest of most excellent fancy he 
+hath borne me on his backe a thousand times and how 
+abhorred my imagination is my gorge rises at it heere 
+hung those lipps that  haue kist  know not how oft 
+where be your iibes now your gambals your 
+songs your flashes of merriment that were wont to 
+set the table on a rore no one now to mock your own 
+ieering quite chopfalne now get you to my ladies 
+chamber and tell her let her paint an inch thicke to this 
+fauour she must come make her laugh at that prythee 
+horatio tell me one thing 
+
+hor whats that my lord 
+ham dost thou thinke alexander lookt othis fashion 
+ith earth 
+hor eene so 
+
+ham and smelt so puh 
+
+hor eene so my lord 
+
+ham to what base vses we may returne horatio 
+why may not imagination trace the noble dust of alexander 
+till he find it stopping a bunghole 
+
+hor twere to consider to curiously to consider so 
+
+ham no faith not a iot but to follow him thether 
+with modestie enough  likeliehood to lead it as thus 
+alexander died alexander was buried alexander returneth 
+into dust the dust is earth of earth we make 
+lome and why of that lome whereto he was conuerted 
+might they not stopp a beerebarrell 
+imperiall caesar dead and turnd to clay 
+might stop a hole to keepe the winde away 
+oh that that earth which kept the world in awe 
+should patch a wall t expell the winters flaw 
+but soft but soft aside heere comes the king 
+enter king queene laertes and a coffin with lords attendant 
+
+the queene the courtiers who is that they follow 
+and with such maimed rites this doth betoken 
+the coarse they follow did with disperate hand 
+fore do it owne life twas some estate 
+couch we a while and mark 
+
+laer what cerimony else 
+ham that is laertes a very noble youth marke 
+
+laer what cerimony else 
+priest her obsequies haue bin as farre inlargd 
+as we haue warrantie her death was doubtfull 
+and but that great command oreswaies the order 
+she should in ground vnsanctified haue lodgd 
+till the last trumpet for charitable praier 
+shardes flints and peebles should be throwne on her 
+yet heere she is allowed her virgin rites 
+her maiden strewments and the bringing home 
+of bell and buriall 
+
+laer must there no more be done  
+priest no more be done 
+we should prophane the seruice of the dead 
+to sing sage requiem and such rest to her 
+as to peaceparted soules 
+
+laer lay her ith earth 
+and from her faire and vnpolluted flesh 
+may violets spring  tell thee churlish priest 
+ ministring angell shall my sister be 
+when thou liest howling 
+ham what the faire ophelia 
+queene sweets to the sweet farewell 
+ hopd thou shouldst haue bin my hamlets wife 
+ thought thy bridebed to haue deckt sweet maid 
+and not thaue strewd thy graue 
+
+laer oh terrible woer 
+fall ten times trebble on that cursed head 
+whose wicked deed thy most ingenious sence 
+depriud thee of hold off the earth a while 
+till  haue caught her once more in mine armes 
+
+leaps in the graue 
+
+now pile your dust vpon the quicke and dead 
+till of this flat a mountaine you haue made 
+to ore top old pelion or the skyish head 
+of blew olympus 
+
+ham what is he whose griefes 
+beares such an emphasis whose phrase of sorrow 
+coniure the wandring starres and makes them stand 
+like wonderwounded hearers this is  
+hamlet the dane 
+
+laer the deuill take thy soule 
+
+ham thou praist not well 
+ prythee take thy fingers from my throat 
+sir though  am not spleenatiue and rash 
+yet haue  something in me dangerous 
+which let thy wisenesse feare away thy hand 
+
+king pluck them asunder 
+
+qu hamlet hamlet 
+
+gen good my lord be quiet 
+
+ham why  will fight with him vppon this theme 
+vntill my eielids will no longer wag 
+
+qu oh my sonne what theame 
+ham  loud ophelia fortie thousand brothers 
+could not with all there quantitie of loue 
+make vp my summe what wilt thou do for her 
+king oh he is mad laertes 
+qu for loue of god forbeare him 
+
+ham come show me what thoult doe 
+woot weepe woot fight woot teare thy selfe 
+woot drinke vp esile eate a crocodile 
+ile doot dost thou come heere to whine 
+to outface me with leaping in her graue 
+be buried quicke with her and so will  
+and if thou prate of mountaines let them throw 
+millions of akers on vs till our ground 
+sindging his pate against the burning zone 
+make ossa like a wart nay and thoult mouth 
+ile rant as well as thou 
+
+kin this is meere madnesse 
+and thus awhile the fit will worke on him 
+anon as patient as the female doue 
+when that her golden cuplet are disclosd 
+his silence will sit drooping 
+
+ham heare you sir 
+what is the reason that you vse me thus 
+ loud you euer but it is no matter 
+let hercules himselfe doe what he may 
+the cat will mew and dogge will haue his day 
+enter 
+
+kin  pray you good horatio wait vpon him 
+strengthen your patience in our last nights speech 
+weel put the matter to the present push 
+good gertrude set some watch ouer your sonne 
+this graue shall haue a liuing monument 
+an houre of quiet shortly shall we see 
+till then in patience our proceeding be 
+
+exeunt 
+
+enter hamlet and horatio 
+
+ham so much for this sir now let me see the other 
+you doe remember all the circumstance 
+
+hor remember it my lord 
+ham sir in my heart there was a kinde of fighting 
+that would not let me sleepe me thought  lay 
+worse then the mutines in the bilboes rashly 
+and praise be rashnesse for it let vs know 
+our indiscretion sometimes serues vs well 
+when our deare plots do paule and that should teach vs 
+theres a diuinity that shapes our ends 
+roughhew them how we will 
+
+hor that is most certaine 
+
+ham vp from my cabin 
+my seagowne scarft about me in the darke 
+gropd  to finde out them had my desire 
+fingerd their packet and in fine withdrew 
+to mine owne roome againe making so bold 
+my feares forgetting manners to vnseale 
+their grand commission where  found horatio 
+oh royall knauery an exact command 
+larded with many seuerall sorts of reason 
+importing denmarks health and englands too 
+with hoo such bugges and goblins in my life 
+that on the superuize no leasure bated 
+no not to stay the grinding of the axe 
+my head should be struck off 
+
+hor ist possible 
+ham heres the commission read it at more leysure 
+but wilt thou heare me how  did proceed 
+hor  beseech you 
+
+ham being thus benetted round with villaines 
+ere  could make a prologue to my braines 
+they had begun the play  sate me downe 
+deuisd a new commission wrote it faire 
+ once did hold it as our statists doe 
+ basenesse to write faire and laboured much 
+how to forget that learning but sir now 
+it did me yeomans seriuce wilt thou know 
+the effects of what  wrote 
+hor  good my lord 
+
+ham an earnest coniuration from the king 
+as england was his faithfull tributary 
+as loue betweene them as the palme should flourish 
+as peace should still her wheaten garland weare 
+and stand a comma tweene their amities 
+and many such like assis of great charge 
+that on the view and know of these contents 
+without debatement further more or lesse 
+he should the bearers put to sodaine death 
+not shriuing time allowed 
+
+hor how was this seald 
+ham why euen in that was heauen ordinate 
+ had my fathers signet in my purse 
+which was the modell of that danish seale 
+folded the writ vp in forme of the other 
+subscribd it gaut th impression plact it safely 
+the changeling neuer knowne now the next day 
+was our sea fight and what to this was sement 
+thou knowst already 
+
+hor so guildensterne and rosincrance go toot 
+
+ham why man they did make loue to this imployment 
+they are not neere my conscience their debate 
+doth by their owne insinuation grow 
+tis dangerous when the baser nature comes 
+betweene the passe and fell incensed points 
+of mighty opposites 
+
+hor why what a king is this 
+ham does it not thinkst thee stand me now vpon 
+he that hath kild my king and whord my mother 
+popt in betweene th election and my hopes 
+throwne out his angle for my proper life 
+and with such coozenage ist not perfect conscience 
+to quit him with this arme and ist not to be damnd 
+to let this canker of our nature come 
+in further euill 
+
+hor it must be shortly knowne to him from england 
+what is the issue of the businesse there 
+
+ham it will be short 
+the interims mine and a mans lifes no more 
+then to say one but  am very sorry good horatio 
+that to laertes  forgot my selfe 
+for by the image of my cause  see 
+the portraiture of his ile count his fauours 
+but sure the brauery of his griefe did put me 
+into a towring passion 
+
+hor peace who comes heere 
+enter young osricke 
+
+osr your lordship is right welcome back to denmarke 
+
+ham  humbly thank you sir dost know this waterflie 
+hor no my good lord 
+
+ham thy state is the more gracious for tis a vice to 
+know him he hath much land and fertile let a beast 
+be lord of beasts and his crib shall stand at the kings 
+messe tis a chowgh but as  saw spacious in the possession 
+of dirt 
+
+osr sweet lord if your friendship were at leysure 
+ should impart a thing to you from his maiesty 
+
+ham  will receiue it with all diligence of spirit put 
+your bonet to his right vse tis for the head 
+
+osr  thanke your lordship tis very hot 
+
+ham no beleeue mee tis very cold the winde is 
+northerly 
+
+osr it is indifferent cold my lord indeed 
+
+ham mee thinkes it is very soultry and hot for my 
+complexion 
+
+osr exceedingly my lord it is very soultry as twere 
+ cannot tell how but my lord his maiesty bad me signifie 
+to you that he has laid a great wager on your head 
+sir this is the matter 
+
+ham  beseech you remember 
+
+osr nay in good faith for mine ease in good faith 
+sir you are not ignorant of what excellence laertes is at 
+his weapon 
+
+ham whats his weapon 
+osr rapier and dagger 
+
+ham thats two of his weapons but well 
+
+osr the sir king has wagd with him six barbary horses 
+against the which he impond as  take it sixe french 
+rapiers and poniards with their assignes as girdle 
+hangers or so three of the carriages infaith are very 
+deare to fancy very responsiue to the hilts most delicate 
+carriages and of very liberall conceit 
+
+ham what call you the carriages 
+osr the carriages sir are the hangers 
+
+ham the phrase would bee more germaine to the 
+matter if we could carry cannon by our sides  would 
+it might be hangers till then but on sixe barbary horses 
+against sixe french swords their assignes and three 
+liberall conceited carriages thats the french but against 
+the danish why is this impond as you call it 
+osr the king sir hath laid that in a dozen passes betweene 
+you and him hee shall not exceed you three hits 
+he hath one twelue for mine and that would come to 
+imediate tryall if your lordship would vouchsafe the 
+answere 
+
+ham how if  answere no 
+osr  meane my lord the opposition of your person 
+in tryall 
+
+ham sir  will walke heere in the hall if it please 
+his maiestie tis the breathing time of day with me let 
+the foyles bee brought the gentleman willing and the 
+king hold his purpose  will win for him if  can if 
+not ile gaine nothing but my shame and the odde hits 
+
+osr shall  redeliuer you een so 
+ham to this effect sir after what flourish your nature 
+will 
+
+osr  commend my duty to your lordship 
+
+ham yours yours hee does well to commend it 
+himselfe there are no tongues else fors tongue 
+
+hor this lapwing runs away with the shell on his 
+head 
+
+ham he did complie with his dugge before hee 
+suckt it thus had he and mine more of the same beauty 
+that  know the drossie age dotes on only got the tune of 
+the time and outward habite of encounter a kinde of 
+yesty collection which carries them through  through 
+the most fond and winnowed opinions and doe but blow 
+them to their tryalls the bubbles are out 
+
+hor you will lose this wager my lord 
+
+ham  doe not thinke so since he went into france 
+ haue beene in continuall practice  shall winne at the 
+oddes but thou wouldest not thinke how all heere about 
+my heart but it is no matter 
+
+hor nay good my lord 
+
+ham it is but foolery but it is such a kinde of 
+gaingiuing as would perhaps trouble a woman 
+
+hor if your minde dislike any thing obey  will forestall 
+their repaire hither and say you are not fit 
+
+ham not a whit we defie augury theres a speciall 
+prouidence in the fall of a sparrow if it be now tis not 
+to come if it bee not to come it will bee now if it 
+be not now yet it will come the readinesse is all since no 
+man has ought of what he leaues what ist to leaue betimes 
+enter king queene laertes and lords with other attendants with 
+foyles 
+and gauntlets a table and flagons of wine on it 
+
+kin come hamlet come and take this hand from me 
+
+ham giue me your pardon sir iue done you wrong 
+but pardont as you are a gentleman 
+this presence knowes 
+and you must needs haue heard how  am punisht 
+with sore distraction what  haue done 
+that might your nature honour and exception 
+roughly awake  heere proclaime was madnesse 
+wast hamlet wrongd laertes neuer hamlet 
+if hamlet from himselfe be tane away 
+and when hes not himselfe dos wrong laertes 
+then hamlet does it not hamlet denies it 
+who does it then his madnesse ift be so 
+hamlet is of the faction that is wrongd 
+his madnesse is poore hamlets enemy 
+sir in this audience 
+let my disclaiming from a purposd euill 
+free me so farre in your most generous thoughts 
+that  haue shot mine arrow ore the house 
+and hurt my mother 
+
+laer  am satisfied in nature 
+whose motiue in this case should stirre me most 
+to my reuenge but in my termes of honor 
+ stand aloofe and will no reconcilement 
+till by some elder masters of knowne honor 
+ haue a voyce and president of peace 
+to keepe my name vngorgd but till that time 
+ do receiue your offerd loue like loue 
+and wil not wrong it 
+
+ham  do embrace it freely 
+and will this brothers wager frankely play 
+giue vs the foyles come on 
+
+laer come one for me 
+
+ham ile be your foile laertes in mine ignorance 
+your skill shall like a starre ith darkest night 
+sticke fiery off indeede 
+
+laer you mocke me sir 
+
+ham no by this hand 
+
+king giue them the foyles yong osricke 
+cousen hamlet you know the wager 
+
+ham verie well my lord 
+your grace hath laide the oddes ath weaker side 
+
+king  do not feare it 
+ haue seene you both 
+but since he is betterd we haue therefore oddes 
+
+laer this is too heauy 
+let me see another 
+
+ham this likes me well 
+these foyles haue all a length 
+
+prepare to play 
+
+osricke  my good lord 
+
+king set me the stopes of wine vpon that table 
+if hamlet giue the first or second hit 
+or quit in answer of the third exchange 
+let all the battlements their ordinance fire 
+the king shal drinke to hamlets better breath 
+and in the cup an vnion shal he throw 
+richer then that which foure successiue kings 
+in denmarkes crowne haue worne 
+giue me the cups 
+and let the kettle to the trumpets speake 
+the trumpet to the cannoneer without 
+the cannons to the heauens the heauen to earth 
+now the king drinkes to hamlet come begin 
+and you the iudges beare a wary eye 
+
+ham come on sir 
+
+laer come on sir 
+
+they play 
+
+ham one 
+
+laer no 
+
+ham iudgement 
+
+osr  hit a very palpable hit 
+
+laer well againe 
+
+king stay giue me drinke 
+hamlet this pearle is thine 
+heres to thy health giue him the cup 
+
+trumpets sound and shot goes off 
+
+ham ile play this bout first set by awhile 
+come another hit what say you 
+laer  touch a touch  do confesse 
+
+king our sonne shall win 
+
+qu hes fat and scant of breath 
+heeres a napkin rub thy browes 
+the queene carowses to thy fortune hamlet 
+
+ham good madam 
+
+king gertrude do not drinke 
+
+qu  will my lord 
+ pray you pardon me 
+
+king it is the poysond cup it is too late 
+
+ham  dare not drinke yet madam 
+by and by 
+
+qu come let me wipe thy face 
+
+laer my lord ile hit him now 
+
+king  do not thinket 
+
+laer and yet tis almost gainst my conscience 
+
+ham come for the third 
+laertes you but dally 
+ pray you passe with your best violence 
+ am affeard you make a wanton of me 
+
+laer say you so come on 
+
+play 
+
+osr nothing neither way 
+
+laer haue at you now 
+
+in scuffling they change rapiers 
+
+king part them they are incensd 
+
+ham nay come againe 
+
+osr looke to the queene there hoa 
+
+hor they bleed on both sides how ist my lord 
+osr how ist laertes 
+laer why as a woodcocke 
+to mine sprindge osricke 
+ am iustly killd with mine owne treacherie 
+
+ham how does the queene 
+king she sounds to see them bleede 
+
+qu no no the drinke the drinke 
+oh my deere hamlet the drinke the drinke 
+ am poysond 
+
+ham oh villany how let the doore be lockd 
+treacherie seeke it out 
+
+laer it is heere hamlet 
+hamlet thou art slaine 
+no medicine in the world can do thee good 
+in thee there is not halfe an houre of life 
+the treacherous instrument is in thy hand 
+vnbated and envenomd the foule practise 
+hath turnd it selfe on me loe heere  lye 
+neuer to rise againe thy mothers poysond 
+ can no more the king the kings too blame 
+
+ham the point envenomd too 
+then venome to thy worke 
+
+hurts the king 
+
+all treason treason 
+
+king  yet defend me friends  am but hurt 
+
+ham heere thou incestuous murdrous 
+damned dane 
+drinke off this potion is thy vnion heere 
+follow my mother 
+
+king dyes 
+
+laer he is iustly serud 
+it is a poyson tempred by himselfe 
+exchange forgiuenesse with me noble hamlet 
+mine and my fathers death come not vpon thee 
+nor thine on me 
+
+dyes 
+
+ham heauen make thee free of it  follow thee 
+ am dead horatio wretched queene adiew 
+you that looke pale and tremble at this chance 
+that are but mutes or audience to this acte 
+had  but time as this fell sergeant death 
+is strickd in his arrest oh  could tell you 
+but let it be horatio  am dead 
+thou liust report me and my causes right 
+to the vnsatisfied 
+
+hor neuer beleeue it 
+ am more an antike roman then a dane 
+heeres yet some liquor left 
+
+ham as thart a man giue me the cup 
+let go by heauen ile hauet 
+oh good horatio what a wounded name 
+things standing thus vnknowne shall liue behind me 
+if thou didst euer hold me in thy heart 
+absent thee from felicitie awhile 
+and in this harsh world draw thy breath in paine 
+to tell my storie 
+
+march afarre off and shout within 
+
+what warlike noyse is this 
+enter osricke 
+
+osr yong fortinbras with conquest come from poland 
+to th ambassadors of england giues this warlike volly 
+
+ham   dye horatio 
+the potent poyson quite orecrowes my spirit 
+ cannot liue to heare the newes from england 
+but  do prophesie th election lights 
+on fortinbras he has my dying voyce 
+so tell him with the occurrents more and lesse 
+which haue solicited the rest is silence  o o o 
+
+dyes 
+
+hora now cracke a noble heart 
+goodnight sweet prince 
+and flights of angels sing thee to thy rest 
+why dos the drumme come hither 
+enter fortinbras and english ambassador with drumme colours 
+and 
+attendants 
+
+fortin where is this sight 
+hor what is it ye would see 
+if ought of woe or wonder cease your search 
+
+for his quarry cries on hauocke oh proud death 
+what feast is toward in thine eternall cell 
+that thou so many princes at a shoote 
+so bloodily hast strooke 
+
+amb the sight is dismall 
+and our affaires from england come too late 
+the eares are senselesse that should giue vs hearing 
+to tell him his commandment is fulfilld 
+that rosincrance and guildensterne are dead 
+where should we haue our thankes 
+hor not from his mouth 
+had it th abilitie of life to thanke you 
+he neuer gaue commandment for their death 
+but since so iumpe vpon this bloodie question 
+you from the polake warres and you from england 
+are heere arriued giue order that these bodies 
+high on a stage be placed to the view 
+and let me speake to th yet vnknowing world 
+how these things came about so shall you heare 
+of carnall bloudie and vnnaturall acts 
+of accidentall iudgements casuall slaughters 
+of deaths put on by cunning and forcd cause 
+and in this vpshot purposes mistooke 
+falne on the inuentors head all this can  
+truly deliuer 
+
+for let vs hast to heare it 
+and call the noblest to the audience 
+for me with sorrow  embrace my fortune 
+ haue some rites of memory in this kingdome 
+which are to claime my vantage doth 
+inuite me 
+hor of that  shall haue alwayes cause to speake 
+and from his mouth 
+whose voyce will draw on more 
+but let this same be presently performd 
+euen whiles mens mindes are wilde 
+lest more mischance 
+on plots and errors happen 
+
+for let foure captaines 
+beare hamlet like a soldier to the stage 
+for he was likely had he beene put on 
+to haue proud most royally 
+and for his passage 
+the souldiours musicke and the rites of warre 
+speake lowdly for him 
+take vp the body such a sight as this 
+becomes the field but heere shewes much amis 
+go bid the souldiers shoote 
+
+exeunt marching after the which a peale of ordenance are shot 
+off 
+
+
+ the tragedie of  prince of denmarke 

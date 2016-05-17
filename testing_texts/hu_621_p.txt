@@ -1,0 +1,1 @@
+ilyen egyseges szabalyokkal biztosithato a konzisztencia azonban ugyanakkor azokat ki kell igazitani hogy a sokfele megbizatasu es hataskoeru szervre egyarant ervenyesek legyenek 

@@ -1,0 +1,1 @@
+mindenkeppen lesz egy meghatarozott vegleges talalkozonk amely lehetove teszi hogy a tanacs meghozza a szuekseges doenteseket 
