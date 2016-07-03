@@ -40,116 +40,116 @@ reg [PRECISION-1 : 0] randomVal [N-1 : 0];
 always @(posedge clk)
 begin
 	if (!rst) begin
-		state <= init_mem_st; //olv_st;
+		state <= init_mem_st; // set next state to memory initialization
 	end
 	else
 		case (state)
-			init_mem_st:
+			init_mem_st:	// load the associative memory with the trained vectors
 				begin
 					rst_RI <= 0;
 					letterReady <= 0;
 					textDone <= 0;
-					computeAngle <= 0;
+					computeAngle <= 0;	// we do not compute the cosine angle as text vector is invalid
 					argmax <= 0;
 					state <= otv_st;
 					$display("Memory loading is done!");
 				end
 				
-			otv_st:
+			otv_st:		//open a test file
 				begin
 					rst_RI <= 0;
 					//if there is still a test file to read
 					if ($fscanf(fileListHandle, "%s\n", textFileName) == 1) begin
 						textFileAddr = {textFileDir, textFileName};
 						fileHandle = $fopen(textFileAddr, "r");
-						state <= rtv_st;
+						state <= rtv_st; // read the content of test file
 					end
-					else
+					else	// there is no test file so go to final state
 						state <= fin;
 				end
 			
-			rtv_st:
+			rtv_st:		// read content of test file
 				begin
 					letterReady <= 1;
 					rst_RI <= 1;
-					textDone <= 0;
-					c = $fgetc(fileHandle);
+					textDone <= 0;	// this means that we are still sending the letters to encoder
+					c = $fgetc(fileHandle);	// read a char from test file
 					if (c == 'h1ff) begin
 						$display ("end of test file %s is reached", textFileAddr);
 						$fclose(fileHandle);
-						state <= ctv_st;
+						state <= ctv_st; // compute the text vector for classification
 						numTests += 1;
 					end
-					else begin
+					else begin	// map the read char to the range of [1,27] for the item memory
 						if (c == 32)  //ascii code space
 							inputLetter <= MAXLETTERS - 1;
 						else if (c >= 97 && c <= 122) //ascii code lowercase letters
 							inputLetter <= c - 97;
 						else 
 							unknown += 1;
-						state <= rtv_st;
+						state <= rtv_st;	// read next char
 					end
 				end
 			
-			ctv_st: 
+			ctv_st: // compute text vector since a test file is read
 				begin
 					rst_RI <= 1;
 					letterReady <= 0;
-					textDone <= 1;
-					state <= wtv_st;
+					textDone <= 1;	// send a flag to encoder for thresholding and computing text vector
+					state <= wtv_st; // write text vector
 				end
 				
-			wtv_st:
+			wtv_st:	// write text vector, i.e., broadcasting to searh module
 				begin
 					rst_RI <= 1;
 					letterReady <= 0;
 					textDone <= 0;
-					computeAngle <= 1;
-					index <= 0;
+					computeAngle <= 1;	// start computing angle in the serach module
+					index <= 0;		// set index 0 (the pointer to the component of hypervectors)
 					argmax <= 0;
-					state <= counting;
+					state <= counting;	// go to counting state 
 				end
 			
-			counting:
+			counting: // we should stay here till counting (from 0 to N-1) is done in the serach module
 				begin
 					rst_RI <= 1;
 					letterReady <= 0;
 					textDone <= 0;
-					computeAngle <= 0;
+					computeAngle <= 0;	// rest compute angle; just a pulse in enough to reset counters
 					
-					if (index < N - 1) begin
-						index <= index + 1;
+					if (index < N - 1) begin	// index is pointing to the component of hypervector
+						index <= index + 1;	// incr the pointer to compute distance of next element
 						state <= counting;
-						argmax <= 0;
+						argmax <= 0;		// do not compute final distance as we are in the middle of counting
 					end
 					else begin
-						argmax <= 1;
-						state <= dummy;
+						argmax <= 1;		// counting is done, compute the minimum Hamming distance
+						state <= dummy;		// go to a dummy wait for few cycles
 						waitingCycles <= 0;
 					end
 				end
 				
-			dummy:
+			dummy: // dummt states to wait few cycles
 				state <= dummy2;
 			
 			dummy2:
 				state <= wait_st;
 				
-			wait_st:
+			wait_st:	// waiting to see the result of classification
 				begin
-					if (done) begin
-						if (langLabels[bestMatchID] == actualLang)
+					if (done) begin // when serach module is done
+						if (langLabels[bestMatchID] == actualLang)	// if serach is correct
 							correct += 1;
 						else
 							$display ("%s went to %s !! \n", actualLang, langLabels[bestMatchID]); 
 		
-						state <= otv_st;
+						state <= otv_st; // open next test file
 						argmax <= 0;
 						//$display ("index=%d  waitingCycles=%d", index, waitingCycles);
 					end					
 				end
 			
-			fin:
+			fin: // all test files are read, compute the accuracy
 				begin
 					$display ("numTests=%d correct=%d for ", numTests, correct, $time);
 					$finish;
